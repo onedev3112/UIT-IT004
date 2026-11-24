@@ -49,6 +49,30 @@
       "cache_version": 1
     },
     {
+      "id": "T5",
+      "source": "Lý thuyết/DPL_Chuong 5 - Rang buoc toan ven.pdf",
+      "sha256": "625f6fa9ae903f81e857e7c489457e8d3a2ba7b4564bf98f9cf163108d8f4c65",
+      "page_count": 53,
+      "text": "T5.txt",
+      "pages_json": "T5.json",
+      "text_sha256": "97364a920b117401b60b0611e3e5e65e58ebe455dfa9073568cac3f650e9e7e3",
+      "pages_sha256": "e008aa26f2d20bcce79734510211b9e42114c232c2e24bbeeb7d5bf18c0e32a3",
+      "extractor": "pypdf",
+      "cache_version": 1
+    },
+    {
+      "id": "T6",
+      "source": "Lý thuyết/DPL_Chuong 6 - Dang chuan.pdf",
+      "sha256": "80ed97dc2e01b1871902836aec816bbaf8c0d83a6cde4ae01271756b07518f07",
+      "page_count": 87,
+      "text": "T6.txt",
+      "pages_json": "T6.json",
+      "text_sha256": "226b7b36b3462e08c70933e79b39ad8be4aa94f3851ec3629b3445968f81c707",
+      "pages_sha256": "3927d121a14ecaf34c7b1fce55b88aeae1a36dae8b6eaf7ad06bd400583bafc0",
+      "extractor": "pypdf",
+      "cache_version": 1
+    },
+    {
       "id": "E23",
       "source": "Giữa kỳ/2023_2024_HK1_DE THI GIUA KY_CSDL.pdf",
       "sha256": "ecf54ab50f64f5faf75cbe0ed7ab0a9f5b1c1916320b35c2e0676cf11e8eb076",
@@ -81,6 +105,54 @@
       "pages_json": "E25.json",
       "text_sha256": "7c8322a201a6f288c8de4197a936b06de01113a45ac0786bc49738decde649af",
       "pages_sha256": "de6ad9328cb33fd8d9853284fc849860eed63ffd9206bdef159810d08cbcd07b",
+      "extractor": "pypdf",
+      "cache_version": 1
+    },
+    {
+      "id": "CK20",
+      "source": "Cuối kỳ/[BHTCNPM] CSDL 2020-2021 CK1.pdf",
+      "sha256": "6931aeedb811bdcb201ebacc19ae92c7f519ac64fec449130317bf896b2e6f27",
+      "page_count": 6,
+      "text": "CK20.txt",
+      "pages_json": "CK20.json",
+      "text_sha256": "7ba5673e09571984c7595e2d2fbb388879ba7739dfcefff6ea826feadee7962e",
+      "pages_sha256": "dee6c23a422e688816cd072661cca4349b8cba069af3cdfd7ae77391f91973fb",
+      "extractor": "pypdf",
+      "cache_version": 1
+    },
+    {
+      "id": "CK22",
+      "source": "Cuối kỳ/[BHTCNPM] CSDL 2022-2023 CK1.pdf",
+      "sha256": "a4260d651aa1ca7f61c4f2eae901270250ae2d269ac84074e1309a8747b2059b",
+      "page_count": 4,
+      "text": "CK22.txt",
+      "pages_json": "CK22.json",
+      "text_sha256": "3029e809e8d5ab83110a45fe544819492b69616b5d642520f5a41ed54a866085",
+      "pages_sha256": "ca57d24fb0945e1342b4a1b01c7daaecc1dadacb23dfd526b1e126d02dea3282",
+      "extractor": "pypdf",
+      "cache_version": 1
+    },
+    {
+      "id": "CK23",
+      "source": "Cuối kỳ/[BHTCNPM] CSDL 2023_2024 CK1.pdf",
+      "sha256": "ffaf0d54fc2465334f07ee46ada402822177c68a2a73afa755e587e11623786b",
+      "page_count": 4,
+      "text": "CK23.txt",
+      "pages_json": "CK23.json",
+      "text_sha256": "9fe59d33f79870efe9f66165ee7ec4683d172a7dbbf6c5dc90b6d2f61b5f862f",
+      "pages_sha256": "ff6b9a36d99c830c42431a86b875a22b52242b2e139cfc35a8502413545ceef9",
+      "extractor": "pypdf",
+      "cache_version": 1
+    },
+    {
+      "id": "CK24",
+      "source": "Cuối kỳ/[BHTCNPM] CSDL 2024_2025 CK1.pdf",
+      "sha256": "f7154652a393f19191eeddf379ce6804b571566eefcb854f5825fe0c69196620",
+      "page_count": 4,
+      "text": "CK24.txt",
+      "pages_json": "CK24.json",
+      "text_sha256": "7c5933eb2175ee00beda2cbec215762194e3f5296d22f16360faf83ce3b3abcf",
+      "pages_sha256": "9d35b26cbf95b73a50d972bcd357d044ac0cf8d6679587968687b03262d288d9",
       "extractor": "pypdf",
       "cache_version": 1
     }

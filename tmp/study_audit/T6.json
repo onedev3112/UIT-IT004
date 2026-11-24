@@ -1,0 +1,437 @@
+[
+  {
+    "page": 1,
+    "text": "TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN, ĐHQG-HCM\nKHOA HỆ THỐNG THÔNG TIN\nCHƯƠNG 6: PHỤ THUỘC HÀM VÀ DẠNG CHUẨN\n1\nCƠ SỞ DỮ LIỆU\nKhoa HệthốngThông tin\nCậpnhậtnăm2026.",
+    "chars": 160
+  },
+  {
+    "page": 2,
+    "text": "1.CácvấnđềgặpphảikhitổchứcCSDL\n2.Phụthuộchàm\n3.Cácdạngchuẩn\n2",
+    "chars": 61
+  },
+  {
+    "page": 3,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Trướckhibànvềdạngchuẩncủamộtcơsởdữliệu,chúngtahãyphântíchxemtạisao\ntrongmộtlượcđồquanhệlạitồntạinhữngvấnđềrắcrối.Chẳnghạncholượcđồquan\nhệ:\n•Thi(masv,mamh,hoten,tenmonhoc,diem).\n•Mộtkhóachính:(masv,mamh)\nCácvấnđềgặpphảikhitổchứccơsởdữliệu\n3\nMASVMAMH HOTEN TENMONHOC DIEM\nsv01 CSDL LêNguyênKhôiCơsởdữliệu 7\nsv01 HDT LêNguyênKhôiHướngđốitượng2\nsv01 XSTK LêNguyênKhôiXácsuấtthốngkê7\nsv02 CTRR HoàngHảiMinhCấutrúcrờirạc 9\nsv02 XSTK HoàngHảiMinhXácsuấtthốngkê5\nsv03 CSDL NguyễnThịHà Cơsởdữliệu 5\nTHI\n3",
+    "chars": 523
+  },
+  {
+    "page": 4,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bấtthườngkhisửadữliệu(updateanomaly):dohậuquảcủadưthừadữliệu,\nmỗikhicậpnhậttêncủamộtsinhviêntrongmộtbộnàođónhưngvẫncòntên\ncũtrongnhữngbộkhác.VìvậytrongCSDLsẽxuấthiệnmộtsinhviênsẽcó\nnhiềutên.\nCácvấnđềgặpphảikhitổchứccơsởdữliệu\n4\nMASVMAMH HOTEN TENMONHOC DIEM\nsv01 CSDL LêNguyênKhôiCơsởdữliệu 7\nsv01 HDT LêAnhKhôi Hướngđốitượng 2\nsv01 XSTK LêNguyênKhôiXácsuấtthốngkê 7\nsv02 CTRR HoàngHảiMinhCấutrúcrờirạc 9\nsv02 XSTK HoàngHảiMinhXácsuấtthốngkê 5\nsv03 CSDL NguyễnThịHàCơsởdữliệu 5\nTHI\n4",
+    "chars": 511
+  },
+  {
+    "page": 5,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bấtthườngkhithêmdữliệu(insertionanomaly):Mộtsinhviênmớimàchưadự\nthimônhọcnàothìthôngtinvềsinhviênnàykhôngthểthêmvàoquanhệTHI,\nvìkhithêmvàothìmamhphảicógiátrịnull,màmamhlàthuộctínhkhóanên\nkhôngthểmanggiátrịnullđược.\nCácvấnđềgặpphảikhitổchứccơsởdữliệu\n5\nMASVMAMH HOTEN TENMONHOC DIEM\nsv01 CSDL LêNguyênKhôi Cơsởdữliệu 7\nsv01 HDT LêNguyênKhôi Hướngđốitượng 2\nsv01 XSTK LêNguyênKhôi Xácsuấtthốngkê 7\nsv02 CTRR HoàngHảiMinh Cấutrúcrờirạc 9\nsv02 XSTK HoàngHảiMinh Xácsuấtthốngkê 5\nsv03 CSDL NguyễnThịHà Cơsởdữliệu 5\nsv04 null ĐặngThịYếnVynull nulls\nTHI\n5",
+    "chars": 576
+  },
+  {
+    "page": 6,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bấtthườngkhixóadữliệu(deletionanomaly):khixóasinhviên\nsv01thimônHDTsẽlàmmấtthôngtincủamônhọcHDT.\nCácvấnđềgặpphảikhitổchứccơsởdữliệu\n6\nMASV HOTEN MAMH TENMONHOCDIEM\nsv01 LêNguyênKhôi CSDL Cơsởdữliệu 7\nsv01 LêNguyênKhôi HDT Hướngđốitượng 2\nsv01 LêNguyênKhôi XSTK Xácsuấtthốngkê 7\nsv02 HoàngHảiMinh CTRR Cấutrúcrờirạc 9\nsv02 HoàngHảiMinh XSTK Xácsuấtthốngkê 5\nsv03 NguyễnThịHà CSDL Cơsởdữliệu 5\nTHI\n6",
+    "chars": 425
+  },
+  {
+    "page": 7,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCácvấnđềgặpphảikhitổchứccơsởdữliệu\n7\nMASV HOTEN\nsv01 LêNguyênKhôi\nsv02 HoàngHảiMinh\nsv03 NguyễnThịHà\nMASVMAMHDIEM\nsv01 CSDL 7\nsv01 HDT 2\nsv01 XSTK 7\nsv02 CTRR 9\nsv02 XSTK 5\nsv03 CSDL 5\nMAMHTENMONHOC\nCSDL Cơsởdữliệu\nHDT Hướngđốitượng\nXSTK Xácsuấtthốngkê\nSINHVIEN\nMONHOC\nTHI\n7",
+    "chars": 301
+  },
+  {
+    "page": 8,
+    "text": "1.CácvấnđềgặpphảikhitổchứcCSDL\n2.Phụthuộchàm\n3.Cácdạngchuẩn\n8",
+    "chars": 61
+  },
+  {
+    "page": 9,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Phụthuộchàm(FDs)làcácràngbuộc(constraints)được\nsuytừýnghĩavàcácliênhệgiữacácthuộctínhdữliệu.\n•Phụthuộchàmvàkhóađượcdùngđểxácđịnhdạngchuẩn\ncủaquanhệ.\n2.1. Phụthuộchàm-Functional dependences (FDs)\n99",
+    "chars": 225
+  },
+  {
+    "page": 10,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Địnhnghĩa:\n•X,YlàhaitậpthuộctínhtrênquanhệR\n•r1,r2là2bộbấtkỳtrênR\n•TanóiXxácđịnhY,kýhiệuX→Y,nếuvàchỉnếu\nr1[X] = r2[X] ⇒r1[Y] = r2[Y]\ntứclà:vớimỗigiátrịcủaXtrongRchỉtươngđươngvớimộtgiátrịcủaY\n•X→Ylàmộtphụthuộchàm,hayYphụthuộcX.\n•Xlàvếtráicủaphụthuộchàm,Ylàvếphảicủaphụthuộchàm.\n2.1. Phụthuộchàm\n1010",
+    "chars": 326
+  },
+  {
+    "page": 11,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ:choquanhệNHANVIENnhưsau:\n•Cónhậnxétgìvề:{manv,hoten},{manv,dchi},{manv,tenph},{manv,trgph},\n{tenph,trgph},{manv,hoten,dchi}…\n2.1. Phụthuộchàm\n11\nmanvhoten dchi tenph trgph\nnv01 NguyễnMinhAnhHàNội Kếtoán LêHảiAnh\nnv02 LêHảiAnh HàNội Kếtoán LêHảiAnh\nnv03 NguyễnHàLê ĐàNẵngKếtoán LêHảiAnh\nnv04 TrầnĐăngHoàng ĐàNẵngDữliệu TrầnĐăngHoàng\nnv05 ĐỗMỹLinh CầnThơDữliệu TrầnĐăngHoàng\nnv06 NguyễnMinhAnhCầnThơDữliệu TrầnĐăngHoàng\n11",
+    "chars": 452
+  },
+  {
+    "page": 12,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n 12\nmanvhoten dchi tenph trgph\nnv01 NguyễnMinhAnh HàNội Kếtoán LêHải Anh\nnv02 LêHảiAnh HàNội Kếtoán LêHải Anh\nnv03 NguyễnHàLê ĐàNẵng Kếtoán LêHảiAnh\nnv04 TrầnĐăngHoàng ĐàNẵng Dữliệu TrầnĐăng Hoàng\nnv05 ĐỗMỹLinh CầnThơ Dữliệu TrầnĐăng Hoàng\nnv06 NguyễnMinhAnh CầnThơ Dữliệu TrầnĐăngHoàng\nMộtsốtính chấtsau: Kýhiêu:\nVới mỗimanvcóduynhấtmộthoten. manv→ hoten\nVới mỗimanvcóduynhấtmộtdchi. manv→ dchi\nVới mỗimanvcóduynhấtmộttenph. manv→ tenph\nVới mỗimanvcóduynhấtmộttrgph. manv→ trgph\nVới mỗitenphcóduynhấtmộttrgph. tenph→ trgph\nVới mỗitrgphcóduynhấtmộttenph. trgph→ tenph\nVới mỗimanvcóduynhấtmộthoten, dchi.manv→ hoten,dchi\n12",
+    "chars": 649
+  },
+  {
+    "page": 13,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•GọiFlàtậpcácphụthuộchàm\n•Địnhnghĩa:\n•X→YđượcsuyratừF,hayFsuyraX→YnếubấtkỳbộcủaquanhệthỏaFthì\ncũngthỏaX→Y\n•HệtiênđềArmstrong:\n1.Tínhphảnxạ:Y⊆X=>X→Y\nmanv,hoten→hoten\n2.Tínhtăngtrưởng:X→Y=>XZ→YZ\ncmnd→hoten=>cmnd,diachi→hoten,diachi\n3.Tínhbắccầu:{X→Y,Y→Z}=>X→Z\nmanv→maph\nmaph→tenph\n2.2. Các luậtsuydiễnchophụthuộchàm\n13\nmanv→ tenph\n13",
+    "chars": 358
+  },
+  {
+    "page": 14,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•TừhệtiênđềArmstrongtasuyramộtsốtínhchấtsau:\n4.Tínhkếthợp:{X→Y,X→Z}=>X→YZ\nmanv→hoten\nmanv→gioitinh\n5.Tínhphânrã:{X→YZ}=>{X→Y,X→Z}\nmanv→hoten,gioitinh=>{manv→hoten,manv→gioitinh}\n6.Tínhtựabắccầu:{X→Y,YZ→W}=>XZ→W\nmasv→malop\nmalop,mamh→magv\n2.2. Các luậtsuydiễnchophụthuộchàm\n14\nmasv, mamh → magv\nmanv → hoten, gioitinh\n14",
+    "chars": 346
+  },
+  {
+    "page": 15,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nChoF={A→B,A→C,BC→D}.ChứngminhA→D?\n1.A→B(giảthiết)\n2.A→C(giảthiết)\n3.A→BC(từ1,2:tínhkếthợp)\n4.BC→D(giảthiết)\n5.A→D(từ3,4:tínhbắccầu)\nVậy:A→D\nVídụ\n1515",
+    "chars": 176
+  },
+  {
+    "page": 16,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bài1:ChoF={A→B,BC→D}.\nChứngminh:AC→D\n•Bài2:ChoF={A→BC,AC→D}.\nChứngminh:AC→BCD\n•Bài3:ChoF={CD→H,B→EG,E→AD}.\nChứngminh:BC→H\n•Bài4:ChoF={AB→C;B→D;CD→E;CE→GH}\nChứngminh:AB→GH.\nBàitập\n1616",
+    "chars": 211
+  },
+  {
+    "page": 17,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n1.A→B(giảthiết)\n2.AC→BC(từ1:tínhtăngtrưởng)\n3.BC→D(giảthiết)\n4.AC→D(từ2,3:tínhbắccầu)\nKếtluận:AC→D\nBài1: Cho F = {A → B, BC → D }. Chứngminh: AC → D\n1717",
+    "chars": 180
+  },
+  {
+    "page": 18,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n1.A→BC(giảthiết)\n2.AC→BC(từ1:tínhtăngtrưởng)\n3.AC→D(giảthiết)\n4.AC→BCD(từ2,3:tínhkếthợp)\nKếtluận:AC→BCD\nBài2: Cho F = {A → BC, AC → D }. Chứngminh: AC → BCD\n1818",
+    "chars": 188
+  },
+  {
+    "page": 19,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n1.B→EG(giảthiết)\n2.B→E(từ1:tínhphânrã)\n3.E→AD(giảthiết)\n4.B→AD(từ2,3:tínhbắccầu)\n5.BC→ADC(từ4:tínhtăngtrưởng)\n6.BC→DC(từ5:tínhphânrã)\n7.CD→H(giảthiết)\n8.BC→H(từ6,7:tínhbắccầu)\nKếtluận:BC→H\nBài3: Cho F = {CD → H, B → EG, E → AD}. \nChứngminh: BC → H\n1919",
+    "chars": 279
+  },
+  {
+    "page": 20,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n1.AB→C(giảthiết)\n2.B→D(giảthiết)\n3.AB→CB(từ1:tínhtăngtrưởng)\n4.CB→CD(từ2:tínhtăngtrưởng)\n5.AB→CD(từ3,4:tínhbắccầu)\n6.CD→E(giảthiết)\n7.CD→CE(từ6:tínhtăngtrưởng)\n8.AB→CE(từ5,7:tínhbắccầu)\n9.CE→GH(giảthiết)\n10.AB→GH(từ8,9:tínhbắccầu)\nKếtluận:AB→GH\nBài4: Cho F={AB→C; B→D; CD→E; CE→GH}\nChứngminh: AB → GH\n2020",
+    "chars": 332
+  },
+  {
+    "page": 21,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Baođóngcủatậpphụthuộchàm\n•BaođóngcủatậpphụthuộchàmF,kýhiệuF+làtậptấtcảcác\nphụthuộchàmđượcsuyratừF.\n•NếuF=F+thìFlàhọđầyđủcủacácphụthuộchàm.\n2.3. Bao đóng\n2121",
+    "chars": 185
+  },
+  {
+    "page": 22,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bàitoánthànhviên\n•ChotrướctậpcácphụthuộchàmFvàmộtphụthuộchàmf,bàitoánkiểmtra\ncóhaykhôngf∈F+gọilàbàitoánthànhviên.\n•Đểgiảiquyếtbàitoánthànhviênthậtsựkhôngđơngiản,vìmặcdùF\nlàrấtnhỏnhưngF+thìcóthểrấtlớn,tìmF+mấtrấtnhiềucôngsức.\n2.3. Bao đóng\n2222",
+    "chars": 271
+  },
+  {
+    "page": 23,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Bàitoánthànhviên\nVídụ:\nF={AE→C,CG→A,BD→G,GA→E,H→D}\nCG→DcóthuộcF+không?\n}Giải:\nKhôngthểdùnghệdẫnluậtArmstrongđểgiảibàinày.\nCầnphảicócáchkhácđólàtìmbaođóngcủatậpthuộctính.\n2.3. Bao đóng\n2323",
+    "chars": 216
+  },
+  {
+    "page": 24,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Baođóngcủatậpthuộctính\n•BaođóngcủatậpthuộctínhXđốivớitậpphụthuộchàmF,kýhiệulàX+Flà\ntậptấtcảcácthuộctínhAcóthểsuydẫntừXnhờF\nX+F= { A | X → A ∈F+}\nF+làbao đóngcủatậpphụthuộchàm.\n•Nhậnxét:\n•X⊆X+F\n•X→B∈F+⇔B⊆X+F\n2.3. Bao đóng\n2424",
+    "chars": 253
+  },
+  {
+    "page": 25,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nThuậttoántìmbaođóngcủatậpthuộctínhX:\nInput:(Q,F),X⊆Q+(Qlàtậphữuhạncácthuộctính),Flàtậpphụthuộc\nhàm.\nOutput:X+F\n2.3. Bao đóng\n2525",
+    "chars": 156
+  },
+  {
+    "page": 26,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nThuậttoántìmbaođóngcủatậpthuộctínhX:\nX+F:=X //sinceX⊆X+F\nRepeat\nold:=X+F;\nifthereisanFDZ→VinF\nsuchthatZ⊆X+FandV⊈X+F\nthenX+F:=X+F∪V\nUntilold=X+F\n2.3. Bao đóng\n2626",
+    "chars": 189
+  },
+  {
+    "page": 27,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ1:ChoQ=ABCDvàF={A→B,A→C,CD→A}\nTínhA+F\n}Giải:\nA+ F=A\nA+ F=AB(VìAàB)\nA+ F=ABC(VìAàC)\nVậyA+ F=ABC\n2.3. Bao đóng\n2727",
+    "chars": 144
+  },
+  {
+    "page": 28,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ2:CholượcđồquanhệR(A,B,C,D,E,G,H)vàtậpphụthuộchàm\nF={B→A,DA→CE,D→H,GH→C,AC→D}\nTìmAC+F?\n•Giải:\nAC+F=AC\nAC+F=ACD(vìAC→D)\nAC+F=ACDE(vìDA→CE)\nAC+F=ACDEH(vìD→H)\nVậy:AC+F=ACDEH\n2.3. Bao đóng\n2828",
+    "chars": 220
+  },
+  {
+    "page": 29,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nBàitoánthànhviên\n•ChotậpthuộctínhQ+,tậpphụthuộchàmFtrênQvàphụthuộchàmX→Y\ntrênQ.CâuhỏiđặtrarằngX→Y∈F+haykhông?\n•Hướngdẫn:\n•Dựavàotínhchất\nX→Y∈F+⇔Y⊆X+F\n•TatìmbaođóngX+F\nNếuY⊆X+FthìX→Y∈F+\nngượclạiX→Y∉F+\n2.3. Bao đóng\n2929",
+    "chars": 245
+  },
+  {
+    "page": 30,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Vídụ3:CholượcđồquanhệR(A,B,C,D,E,G,H)vàtậpphụ\nthuộchàm\nF={B→A , DA→CE, D→H, GH→C, AC→D}.\nHỏi:AC→EcóthuộcF+không?\nGiải\nTacóAC+F=ACDEH(đãthựchiệnởvídụ2)\nVìE⊆AC+FnênAC→E∈F+\n2.3. Bao đóng\n3030",
+    "chars": 216
+  },
+  {
+    "page": 31,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bàitập1:\nChoQ(ABCDE)vàF={AE→B,AB→CE,CD→A,B→D}\nTínhBC+F\n•Bàitập2:\nChoQ(ABCDEG)vàF={BD→C,AEG→BC,CG→AE,B→CG}\nHỏi:B→D∈F+?\n•Bàitập3:\nCholượcđồQ(ABCDEG)vàF={AE→C,CG→A,BD→G,GA→E}\nHỏi:BDC→E∈F+?\n•Bàitập4:\nChoQ(ABCDEGH)vàF={B→A,D→CE,D→H,GH→C,AC→D}\nChứngminh:AC→E∈F+\n2.3. Bao đóng\n3131",
+    "chars": 302
+  },
+  {
+    "page": 32,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Bàitập1:ChoQ(ABCDE)vàF={AE→B,AB→CE,CD→A,B→D}\nTínhBC+F\nGiải:\nBC+F=BC\nBC+F=BCD(VìBàD)\nBC+F=BCDA(VìCDàA)\nBC+F=BCDAE(VìABàCE)\nVậyBC+F=BCDAE\n2.3. Bao đóng\n3232",
+    "chars": 182
+  },
+  {
+    "page": 33,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bàitập2:CholượcđồQ(A,B,C,D,E,G)vàtậpphụthuộchàm\nF = {BD → C, AEG → BC, CG → AE, B → CG } \nHỏi:B→D∈F+?\nGiải:\nB+F=B\nB+F=BCG(vìB→CG)\nB+F=BCGAE(vìCG→AE)\nVìD⊄B+FnênB→D∉F+\n2.3. Bao đóng\n3333",
+    "chars": 212
+  },
+  {
+    "page": 34,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bàitập3:CholượcđồQ(A,B,C,D,E,G)vàtậpphụthuộchàm\nF = {AE→C, CG →A, BD→G, GA→E }\nHỏi:BDC→E∈F+?\nGiải:\n•BDC+F=BDC\n•BDC+F=BDCG(VìBD→G)\n•BDC+F=BDCGA(VìCG→A)\n•BDC+F=BDCGAE(VìGA→E)\n•VìE⊆BDC+FnênBDC→E∈F+\n2.3. Bao đóng\n3434",
+    "chars": 241
+  },
+  {
+    "page": 35,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Bàitập4:ChoQ(ABCDEGH)vàtậpphụthuộchàm\nF={ B →A , DA →CE, D →H, GH →C, AC → D} \nChứngminh: AC → E ∈F+\nGiải:\nAC+F=AC\nAC+F=ACD(VìAC→D)\nAC+F=ACDE(VìDA→CE)\nAC+F=ACDEH(VìD→H)\nVìAC+F=ACDEHÊE=>AC→EthuộcF+\n(hayAC→EđượcsuyratừF)\n2.3. Bao đóng\n3535",
+    "chars": 265
+  },
+  {
+    "page": 36,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Địnhnghĩa:CholượcđồquanhệQ(A1,A2,…,An),Q+làtậpthuộc\ntínhcủaQ,FlàtậpphụthuộchàmtrênQ,KlàtậpconcủaQ+.Khi\nđóKgọilàmộtkhóacủaQnếu:\n(i)K+F=Q+\n(ii)KhôngtồntạiK’⊂KsaochoK’+F=Q+\n•ThuộctínhAđượcgọilàthuộctínhkhóanếuA∈K,trongđóKlàkhóacủaQ.\nNgượclạithuộctínhAđượcgọilàthuộctínhkhôngkhóa.\n•K’đượcgọilàsiêukhóanếuK’⊇K.\n•Mộtquanhệcóthểcónhiềukhóa\n2.4. Khóa\n3636",
+    "chars": 375
+  },
+  {
+    "page": 37,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Cácphụthuộchàm:\n•ma_ct→sohd,masp,sl\n•sohd,masp→ma_ct,sl\n}Siêukhóa:\n{ma_ct}\n{ma_ct,sohd},{ma_ct,masp},{ma_ct,sl},{ma_ct,sohd,masp},{ma_ct,sohd,sl},\n{ma_ct,masp,sl},{ma_ct,sohd,masp,sl}\n{sohd,masp},{sohd,masp,sl}\n}Khóa:{ma_ct},{sohd,masp}\nThuộctínhkhóa:ma_ct,sohd,masp\nThuộctínhkhôngkhóa:sl\n2.4. Khóa\n37\nMa_ctSohd MaspSl\n1 hd01 bb01 20\n2 hd01 bb02 5\n3 hd02 bt01 13\n4 hd02 bc04 20\n5 hd03 bc04 4\nCTHD\n37",
+    "chars": 427
+  },
+  {
+    "page": 38,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Tậpthuộctínhnguồn:làtậpchứanhữngthuộctínhchỉxuấthiệnởvếtráicủa\nmọiphụthuộchàm.KýhiệulàN\n•Tậpthuộctínhtreo:làtậpchứanhữngthuộctínhkhôngxuấthiệnởcảvếtrái\nvàvếphảicủamọiphụthuộchàm.KýhiệulàT\n•Tậpthuộctínhtrunggian:làtậpchứanhữngthuộctínhvừaxuấthiệnởvế\ntrái,vừaxuấthiệnởvếphảitrongcácphụthuộchàm.KýhiệulàTG\n•Tậpthuộctíchđích:làtậpchứanhữngthuộctínhchỉxuấthiệnởvếphảicủa\nmọiphụthuộchàm.KýhiệulàĐ\nThuậttoántìmkhóa\n3838",
+    "chars": 440
+  },
+  {
+    "page": 39,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•\nThuậttoántìmkhóa\n3939",
+    "chars": 50
+  },
+  {
+    "page": 40,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Vídụ:CholượcđồquanhệQ(A,B,C)vàtậpphụthuộchàm\nF={AB→C,C→A}\nTìmmọikhóacủaQ.\nGiải:\n•Bước1:T=∅;N={B},N+F=B≠Q+\n•Bước2:TG={A,C},tậpcáctậpcontrunggianlàCTG={A,C,AC}\nThuậttoántìmkhóa\n4040",
+    "chars": 207
+  },
+  {
+    "page": 41,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nTậpphụthuộchàm:F={AB→C,C→A}\nGiải:\n•Bước1:T=∅;N={B},N+F=B≠Q+\n•Bước2:TG={A,C},tậpcáctậpcontrunggianlàCTG={A,C,AC}\n•Bước3:\n•NhưvậytậpkhoáS={BA,BC}\nThuậttoántìmkhóa\n41\nN Xi N ∪Xi (N ∪Xi)+F\nB A BA BAC=Q+ KhóalàBA. Loạicácphần\ntửtrongCTG chứaA: AC\nB C BC BCA=Q+ KhóalàBC\n41",
+    "chars": 294
+  },
+  {
+    "page": 42,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bàitập1:CholượcđồquanhệQ(ABCD)vàtậpphụthuộchàm\nF={ A → B, A → CD, BC →D}\nTìmmọikhóacủaQ\n•Bàitập2:CholượcđồquanhệQ(ABCDE)vàtậpphụthuộchàm\nF={ BC → A, A → CD, C →DE}\nTìmmọikhóacủaQ.\n•Bàitập3:CholượcđồquanhệQ(A,B,C,D)vàtậpphụthuộchàm\nF={ A → BCD, CD → AB}\nTìmmọikhóacủaQ.\n•Bàitập4:cholượcđồquanhệQ(A,B,C,D,E,G)vàtậpphụthuộchàm\nF={ AE → C, CG → A, BD →G, GA →E}\nTìmtấtcảcáckhóacủaQ\nBàitậptìmkhóa\n4242",
+    "chars": 424
+  },
+  {
+    "page": 43,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nBài tập1:Cho lượcđồquanhệQ(A, B, C, D, E) vàtậpphụthuộchàm\nF={ A → B, A → CD, BC →D}\nTìmmọikhóacủaQ\nGiải:\nBước1:T={E},N={A},(𝑇∪𝑁)+F=EABCD=Q+\nKếtluận:lượcđồcómộtkhóaduynhất:EA\n4343",
+    "chars": 206
+  },
+  {
+    "page": 44,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nBàitập2:CholượcđồquanhệQ(ABCDE)vàtậpphụthuộchàm\nF={ BC → A, A → D, C →DE}\nTìmmọikhóacủaQ\nGiải:\n}Bước1:T=∅;N={B},N+F=B≠Q+\n}Bước2:TG={A,C},tậpcáctậpcontrunggianlàCTG={A,C,AC}\n}Bước3:\nNhưvậytậpkhoáS={BC}\n44\nN Xi N ∪Xi (N ∪Xi)+F\nB A BA BAD\nB C BC BCADE=Q+ KhóalàBC. Loạicácphầntử\ntrongCTG chứaC: AC\n44",
+    "chars": 324
+  },
+  {
+    "page": 45,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nBàitập3:CholượcđồquanhệQ(A,B,C,D)vàtậpphụthuộchàm\nF= { A → BCD, CD → AB}\nTìmmọikhóacủaQ.\nGiải:\n•Bước1:T=∅;N=∅\n•Bước2:TG={A,C,D},tậpcáctậpcontrunggianlàCTG={A,C,D,AC,AD,CD,ACD}\n•Bước3:\nKếtluận:QcókhóalàA,CD\n45\nNXi N ∪Xi (N ∪Xi)+F\nA A ABCD=Q+ KhóalàA. LoạicácphầntửtrongCTG chứaA: \nAC, AD, ACD\nC C C\nD D D\nCD CD ABCD=Q+ KhóalàCD\n45",
+    "chars": 356
+  },
+  {
+    "page": 46,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nBàitập4:CholượcđồquanhệQ(A,B,C,D,E,G)vàtậpphụthuộchàm\nF={ AE → C, CG → A, BD →G, GA →E}\nTìmtấtcảcáckhóacủaQ\nGiải:\n}Bước1:N={B,D};N+F=BDG≠Q+\n}Bước2:TG={A,C,E,G},Tấtcảtậpconcủatậptrunggianlà:\nCTG={A,C,E,G,AC,AE,AG,CE,CG,EG,ACE,ACG,AEG,CEG,ACEG}\n}Bước3:\nKếtluận:tậpkhóaS={BDA,BDC}\n46\nN Xi N ∪Xi (N ∪Xi)+F\nBD A BDA BDAGEC=Q+ KhóalàBDA. LoạicácphầntửtrongCTG chứaA: \nAC, AE, AG, ACE, ACG,  AEG, ACEG\nBD C BDC ABCDEG=Q+ KhóalàBDC. LoạicácphầntửtrongCTG chứaC: \nCE, CG, CEG\nBD E BDE BDEG\nBD G BDG BDG\nBD EGBDEGBDEG\n46",
+    "chars": 537
+  },
+  {
+    "page": 47,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Phụthuộchàm(PTH)riêngphần\n•X→ZđượcgọilàPTHriêngphầnnếutồntạiY⊂XđểchoY→Z.\n•Vd:NếuAB→C,B→CthìAB→ClàPTHriêngphần,thuộctínhCphụthuộcriêngphần\nvàoAB.\n•Phụthuộchàmđầyđủ\n•X→AgọilàPTHđầyđủnếukhôngtồntạiY⊂XđểchoY→A.\n•Phụthuộchàmbắccầu\n•X→AđượcgọilàphụthuộcbắccầunếutồntạiYđểchoX→Y,Y→A,Y−/→XvàA∉\nXY.\n•Vd:NếuAB→C,AB→ED,ED→C,ED−/→ABthìAB→ClàPTHbắccầu.\n2.5. Các loạiphụthuộchàm\n4747",
+    "chars": 397
+  },
+  {
+    "page": 48,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bàitập1:\nChotậpphụthuộchàm:F={AB→E,C→D,B→E}\nPhụthuộchàmnàolàriêngphần?\n•Bàitập2:\nChotậpphụthuộchàm:\nF={AB→E,  C→B, C→E, E→B, A→EC}\nPhụthuộchàmnàolàriêngphần?Phụthuộchàmnàolàbắccầu?\n2.5. Các loạiphụthuộchàm\n4848",
+    "chars": 238
+  },
+  {
+    "page": 49,
+    "text": "1.CácvấnđềgặpphảikhitổchứcCSDL\n2.Phụthuộchàm\n3.Cácdạngchuẩn\n49",
+    "chars": 62
+  },
+  {
+    "page": 50,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Dạngchuẩn1(1NF):FirstNormalForm\n•Dạngchuẩn2(2NF):SecondNormalForm\n•Dạngchuẩn3(3NF):ThirdNormalForm\n•DạngchuẩnBoyceCodd(BCNF)\n•Đểchuẩnhóa1NF=>2NF=>3NF=>BCNF\n3. Các dạngchuẩn\n5050",
+    "chars": 205
+  },
+  {
+    "page": 51,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Địnhnghĩa:lượcđồquanhệQởdạngchuẩn1nếumọithuộctínhcủaQđều\nchứacácgiátrịnguyêntố(atomicvalue),giátrịnàykhônglàmộtdanhsáchcác\ngiátrịhoặccácgiátrịphứchợp(compositevalue).\n•VD:THAMGIA\n3.1. Dạngchuẩn1 (1NF)\n51\nMaNVHoten Ngaysinh MaDA TENDA SOGIO\n1 NguyễnMinh Anh 14/06/1990 DA2 Dựán2 30\nDA3 Dựán3 25\nDA5 Dựán5 10\n2 NgôHoàngThái 20/02/1990 DA4 Dựán4 50\n3 NguyễnHuệAn 15/09/1991 DA3 Dựán3 36\nDA5 Dựán5 5\nTHAMGIA ở trên không đạt dạng chuẩn 1.\n51",
+    "chars": 465
+  },
+  {
+    "page": 52,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nTHAMGIA đãđạtdạngchuẩn1. THAMGIA cómộtkhóalà(MaNV, MaDA)\n3.1. Dạngchuẩn1 (1NF)\n52\nMaNV Hoten Ngaysinh MaDA TENDA SOGIO\n1 NguyễnMinh Anh 14/06/1990 DA2 Dựán2 30\n1 NguyễnMinh Anh 14/06/1990 DA3 Dựán3 25\n1 NguyễnMinh Anh 14/06/1990 DA5 Dựán5 10\n2 NgôHoàngThái 20/02/1990 DA4 Dựán4 50\n3 NguyễnHuệAn 15/09/1991 DA3 Dựán3 36\n3 NguyễnHuệAn 15/09/1991 DA5 Dựán5 5\n52",
+    "chars": 385
+  },
+  {
+    "page": 53,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Mặcdùđạtdạngchuẩn1nhưngTHAMGIAvẫngặpmộtsốvấnđề:\n•Dưthừa:thôngtinnhânviênđượclặplạimỗilầnchomỗidựán.\n•Cậpnhật:dohậuquảcủadưthừadữliệu,mỗikhicậpnhậtthôngtinnhânviên\ntrongmộtbộnàođónhưngvẫncònthôngtincũtrongnhữngbộkhác.\n•Thêm:Mộtnhânviênmớimàchưathamgiadựánnàothìthôngtinvềnhânviên\nnàykhôngthểthêmvàoquanhệTHAMGIA,vìkhithêmvàothìMaDAphảicógiá\ntrịnull,màMaDAlàthuộctínhkhóanênkhôngthểmanggiátrịnullđược.\n•Xóa:khixóanhânviêncómãsốlà‘2’thamgia‘DA4’sẽlàmmấtthôngtincủa\n‘DA4’.\n3.1. Dạngchuẩn1 (1NF)\n5353",
+    "chars": 523
+  },
+  {
+    "page": 54,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nLượcđồQởdạngchuẩn2nếuthoả:\n•(1)Qđạtdạngchuẩn1\n•(2)MọithuộctínhkhôngkhóacủaQđềuphụthuộcđầyđủvào\nkhóa.\n3.2. Dạngchuẩn2 (2NF)\n5454",
+    "chars": 154
+  },
+  {
+    "page": 55,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Kiểmtradạngchuẩn2\n•Bước1:TìmmọikhóacủaQ\n•Bước2:VớimỗikhóaK,tìmtậptấtcảcáctậpconthựcsựSicủa\nK\n•Bước3:NếutồntạibaođóngS+ichứathuộctínhkhôngkhóathì\nQkhôngđạtdạngchuẩn2,ngượclạiQđạtdạngchuẩn2.\n3.2. Dạngchuẩn2 (2NF)\n5555",
+    "chars": 243
+  },
+  {
+    "page": 56,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Cácphụthuộchàm:\nMasv→hoten\nMasv,mamh→hoten,diem\n•LượcđồTHIkhôngđạt2NFvìthuộctínhkhôngkhóahotenphụthuộcriêngphầnvàokhóa\n(masv,mamh)\n3.2. Dạngchuẩn2 (2NF)\n56\nMASV MAMH HOTEN DIEM\nsv01 CSDL LêNguyênKhôi 7\nsv01 HDT LêNguyênKhôi 2\nsv01 XSTK LêNguyênKhôi 7\nsv02 CTRR HoàngHảiMinh 9\nsv02 XSTK HoàngHảiMinh 5\nsv03 CSDL NguyễnThịHà 5\nTHI\nTHI cómộtkhóa(masv, mamh)\n56",
+    "chars": 385
+  },
+  {
+    "page": 57,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCả2 lượcđồtrênđạt2NF vìcácthuộctínhkhôngkhóađềuphụthuộcđầyđủ\nvàokhóa. \n3.2. Dạngchuẩn2 (2NF)\n57\nMASV HOTEN\nsv01 LêNguyênKhôi\nsv02 HoàngHảiMinh\nsv03 NguyễnThịHà\nMASV MAMH DIEM\nsv01 CSDL 7\nsv01 HDT 2\nsv01 XSTK 7\nsv02 CTRR 9\nsv02 XSTK 5\nsv03 CSDL 5\nSINHVIEN THI\n57",
+    "chars": 288
+  },
+  {
+    "page": 58,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Vídụ:ChoQ(A,B,C,D),F={A→B,B→DC}\nQcóđạtdạngchuẩn2không?\n}Giải:\n•LượcđồchỉcómộtkhóalàA(Giảithích?),nênmọithuộctính\nđềuphụthuộcđầyđủvàokhóa.\n•DovậyQđạtdạngchuẩn2.\n3.2. Dạngchuẩn2 (2NF)\n5858",
+    "chars": 214
+  },
+  {
+    "page": 59,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Vídụ:ChoQ(A,B,C,D),F={AB→D,C→D}\nKhóa:ABC\nQcóđạtdạngchuẩn2không?\nGiải:\n•LượcđồcókhóalàABCnênABC→D,ngoàiracòncóC⊂ABCmàC→D,trong\nđóDlàthuộctínhkhôngkhóa(nghĩalàthuộctínhDphụthuộcriêngphầnvào\nkhóa).DovậyQkhôngđạtdạngchuẩn2.\nCáchkhác:\n•LượcđồcókhóalàABC,ngoàiraC⊂ABCmàC+F=CD⊃D,trongđóDlàthuộc\ntínhkhôngkhóa.DovậyQkhôngđạtdạngchuẩn2\n3.2. Dạngchuẩn2 (2NF)\n5959",
+    "chars": 381
+  },
+  {
+    "page": 60,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Vídụ:ChoQ(A,B,C,D),F={AB→C,C→D}\n•KhóaAB\n•Qcóđạtdạngchuẩn2không?\n•Giải:\nTậpconthựcsựcủakhóaABlà:{A,B}\nA+F=A,B+F=B(KhôngchứathuộctínhkhôngkhóaC,D)\nDođó,thuộctínhkhôngkhóaC,Dphụthuộcđầyđủvàokhóa\nKếtluận:Qđạtdạngchuẩn2.\n3.2. Dạngchuẩn2 (2NF)\n6060",
+    "chars": 270
+  },
+  {
+    "page": 61,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Nhậnxét:\n•NếutấtcảcáckhóaKcủaQchỉcómộtthuộctínhthìQđạtdạng\nchuẩn2.\n•NếuQkhôngcóthuộctínhkhôngkhóathìQđạtdạngchuẩn2.\n•Cònxuấthiệnsựtrùnglắpdữliệu->Cầncódạngchuẩncaohơn\n3.2. Dạngchuẩn2 (2NF)\n6161",
+    "chars": 221
+  },
+  {
+    "page": 62,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•NHANVIEN\n•Lượcđồnhânviênđạtdạngchuẩn2nhưngvẫncònnhữngbấtthườngdo\ndưthừadữliệu.\n3.2. Dạngchuẩn2 (2NF)\n62\nMaNVTenNV MaPhTenPh TrPhong\nNV01 NGUYỄNQUANG MINHHC HÀNH CHÍNH NV01\nNV02 LÊVĂN THANH HC HÀNHCHÍNH NV01\nNV03 LÊBÁ HIỆP HC HÀNHCHÍNH NV01\nNV04 BÙITHẾ HIỂN KT KẾTOÁN NV04\nNV05 PHẠMBÌNH AN KT KẾTOÁN NV04\nNV06 PHẠMKHÁNH QUÂN TC TÀICHÍNH NULL\n62",
+    "chars": 371
+  },
+  {
+    "page": 63,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Cácbấtthường:\n•Thêm:khôngthểthêmmộtphòngbanmớikhiphòngnàychưacónhân\nviên.\n•Xóa:khixóanhânviênnv06thìsẽlàmmấtthôngtinphòngTC.\n•Sửa:khisửatêncủaphòngcómãlàHCsẽphảisửatấtcảcácdòngdữ\nliệucủaphòngnày.\n63\nMaNVTenNV MaPhTenPh TrPhong\nNV01 NGUYỄNQUANG MINHHC HÀNH CHÍNH NV01\nNV02 LÊVĂN THANH HC HÀNHCHÍNH NV01\nNV03 LÊBÁ HIỆP HC HÀNHCHÍNH NV01\nNV04 BÙITHẾ HIỂN KT KẾTOÁN NV04\nNV05 PHẠMBÌNH AN KT KẾTOÁN NV04\nNV06 PHẠMKHÁNH QUÂN TC TÀICHÍNH NULL\n63",
+    "chars": 466
+  },
+  {
+    "page": 64,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Địnhnghĩa1:\n•LượcđồQởdạngchuẩn3nếu:\n•Qđạtdạngchuẩn2\n•Khôngtồntạithuộctínhkhôngkhóanàophụthuộcbắccầuvào\nkhóa\n•Địnhnghĩa2:\n•LượcđồQởdạngchuẩn3nếumọiphụthuộchàmX→A∈F,vớiA\n∉Xđềucó:\n•(1)Xlàsiêukhóa,hoặc\n•(2)Alàthuộctínhkhóa\n3.3. Dạngchuẩn3 (3NF)\n6464",
+    "chars": 273
+  },
+  {
+    "page": 65,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n3.3. Dạngchuẩn3 (3NF)\n65\nMaPh TenPh TrPhong\nTenNV MaNV NgSinh Diachi MaPh TenPh TrPhong\nPTH bắc\ncầu\nKhôngđạtdạng\nchuẩn3\nTenNV MaNV NgSinh Diachi MaPh\nĐạtdạng\nchuẩn3\nNHANVIEN\nNHANVIEN\nPHONG\n65",
+    "chars": 218
+  },
+  {
+    "page": 66,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Kiểmtradạngchuẩn3\n•Bước1:TìmmọikhóacủaQ\n•Bước2:NếumọiphụthuộchàmX→A∈F,màA∉Xđềuthỏa:\n•(1)Xlàsiêukhóa(vếtráichứamộtkhóa),hoặc\n•(2)Alàthuộctínhkhóa(vếphảilàtậpconcủakhóa)\nThìQđạtdạngchuẩn3,ngượclạiQkhôngđạtdạngchuẩn3.\n3.3. Dạngchuẩn3 (3NF)\n6666",
+    "chars": 269
+  },
+  {
+    "page": 67,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ:ChoQ(A,B,C,D),F={AB→C,C→BD}\n•Khóalà:AB,AC\n•Hỏi:Qcóđạtdạngchuẩn3không?\nGiải:\n•C→BDphânrãratađược:C→B,C→D\n•XétC→D:CkhônglàsiêukhóavàDkhônglàthuộctínhkhóa\n•VậyQkhôngđạtdạngchuẩn3.\n3.3. Dạngchuẩn3 (3NF)\n6767",
+    "chars": 235
+  },
+  {
+    "page": 68,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ:ChoQ(A,B,C,D),F={AB→C,C→D}\n•KhóaAB\n•Hỏi:Qđạtdạngchuẩn3haydạngchuẩn2?\nGiải:\n}Xétdạngchuẩn3:\n•VìABlàkhóanênAB→D,màtalạicóAB→C,C→DdođóDlàthuộctínhkhôngkhóaphụthuộc\nbắccầuvàokhóa=>Qkhôngđạtdạngchuẩn3\n•(Hoặc:C→DmàCkhônglàsiêukhóavàDkhônglàthuộctínhkhóa=>Qkhôngđạtdạngchuẩn3)\n}Xétdạngchuẩn2:\n•A+F=A,B+F=B(KhôngchứathuộctínhkhôngkhóaC,D)\nDođóC,Dlàthuộctínhkhôngkhóaphụthuộcđầyđủvàokhóa\n=>Qđạtdạngchuẩn2.\n3.3. Dạngchuẩn3 (3NF)\n6868",
+    "chars": 455
+  },
+  {
+    "page": 69,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ:ChoQ(A,B,C),F={AB→C,C→B}\n•KhóalàAB,AC\n•Qcóđạtdạngchuẩn3không?\nGiải:\n•TấtcảcácthuộctínhA,B,CđềulàthuộctínhKhóa.\n•Kếtluận:Qđạtdạngchuẩn3.\n3.3. Dạngchuẩn3 (3NF)\n6969",
+    "chars": 194
+  },
+  {
+    "page": 70,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Cho:Q(A,B,C,D),F=(AB→CD,C→B)\n•KhóalàAB,AC\n•Qcóđạtdạngchuẩn3không?\nGiải\n}Xétphụthuộchàm:AB→CD\n•ABlàkhóa\n}Xétphụthuộchàm:C->B\n•Blàthuộctínhkhóa\n}VậyQđạtdạngchuẩn3\n3.3. Dạngchuẩn3 (3NF)\n70\nA B C D\n70",
+    "chars": 224
+  },
+  {
+    "page": 71,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Cácphụthuộchàm:\nGiangvien→Monhoc\nSinhvien,Monhoc→Giangvien\n}Lượcđồtrênđạtdạngchuẩn3=>Vẫncònbấtthườngdữliệu.\n3.3. Dạngchuẩn3 (3NF)\n71\nSINHVIEN MONHOC GIANGVIEN\nHoàng CSDL GV1\nHoàng CTRR GV2\nHoàng CTDLGT GV3\nMinh CSDL GV1\nQuân CSDL GV4\nQuân CTDLGT GV3\nDANGKY\nKhóa: {Sinhvien, monhoc}, \n{Sinhvien, Giangvien}\n71",
+    "chars": 336
+  },
+  {
+    "page": 72,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•CácbấtthườngcủaquanhệDANGKYở3NF\n•Thêm:khôngthểthêmthôngtingiảngviênGV5dạymônCTRRnếuchưacósinhviênnàohọc\nmônnày.\n•Xóa:xóathôngtincủasinhviênQuânhọcmônCSDLsẽlàmmấtthôngtinGV4dạymônCSDL.\n•Sửa:sửatênmônhọccủaGiảngviênGV3thànhmônCTDLthìphảisửatấtcảcácdòngdữliệu\ncủagiảngviênnày\n72\nSINHVIEN MONHOC GIANGVIEN\nHoàng CSDL GV1\nHoàng CTRR GV2\nHoàng CTDLGT GV3\nMinh CSDL GV1\nQuân CSDL GV4\nQuân CTDLGT GV3\nDANGKY\n72",
+    "chars": 430
+  },
+  {
+    "page": 73,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•LượcđồQởdạngchuẩnBCnếumọiphụthuộchàmX→A∈F,với\nA∉XđềucóXlàsiêukhóa.\n•KiểmtradạngchuẩnBCNF\n•Bước1:TìmmọikhóacủaQ\n•Bước2:NếumọiphụthuộchàmX→A∈F,màA∉Xđềuthỏa\nXlàsiêukhóa(vếtráichứamộtkhóa),thìQđạtdạngchuẩnBC,\nngượclạiQkhôngđạtdạngchuẩnBC.\n3.4. DạngchuẩnBoyce Codd (BCNF)\n7373",
+    "chars": 299
+  },
+  {
+    "page": 74,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụ:ChoQ(A,B,C,D,E,I)\n•F={ACD→EBI,CE→AD}\n•QcóđạtdạngchuẩnBCNFkhông?\nGiải:\n•Bước1:Qcóhaikhóalà{ACD,CE}\n•Bước2:MọiphụthuộchàmtrongFđềucóvếtráilàmộtsiêu\nkhóa.VậyQđạtdạngchuẩnBC.\n3.4. DạngchuẩnBoyce Codd (BCNF)\n7474",
+    "chars": 239
+  },
+  {
+    "page": 75,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•KiểmtradạngchuẩncaonhấtcủalượcđồquanhệQ\n•Bước1:TìmmọikhóacủaQ\n•Bước2:KiểmtradạngchuẩnBC,nếuđúngthìQđạtdạngchuẩn\nBC,ngượclạiquabước3.\n•Bước3:Kiểmtradạngchuẩn3,nếuđúngthìQđạtdạngchuẩn3,\nngượclạiquabước4.\n•Bước4:Kiểmtradạngchuẩn2,nếuđúngthìQđạtdạngchuẩn2,\nngượclạiQđạtdạngchuẩn1.\nKiểmtradạngchuẩncaonhất\n7575",
+    "chars": 333
+  },
+  {
+    "page": 76,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCholượcđồQ(ABCDEG)vàtậpphụthuộchàm\nF={AE→ G, AC→ E, BD→ G, E→ C}\nTìmdạngchuẩncaonhấtcủalượcđồtrên.\nGiải\n•Bước1:Tìmtấtcảcáckhóa\n•N={ABD},N+F=ABDG≠Q+\n•TG={CE},tậpcáctậpcontrunggianlàCTG={C,E,CE}\nVídụ\n76\nN Xi N ∪Xi (N ∪Xi)+F\nABD C ABDC ABDCEG=Q+ KhóalàABDC. Loạicácphần\ntửtrongCTG chứaC: CE\nABD E ABDE ABDECG=Q+ KhóalàABDE\nTậpcáckhóalàS = {ABDC, ABDE}\n76",
+    "chars": 378
+  },
+  {
+    "page": 77,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Bước2:KiểmtradạngchuẩnBC\n•TaxétAE→Gcóvếtráikhônglàsiêukhóa,vậyQkhôngđạtdạngchuẩnBC\n}Bước3:Kiểmtradạngchuẩn3\n•XétAE→G,cóGkhônglàtínhkhôngkhóavàAEkhônglàsiêukhóa.VậyQ\nkhôngđạtdạngchuẩn3\n}Bước4:Kiểmtradạngchuẩn2\n•Xét(AE)+F=AEGCÉG,màGlàthuộctínhkhôngkhóa.VậyQkhôngđạtdạng\nchuẩn2.\n=>VậylượcđồQchỉđạtdạngchuẩn1.\nF={AE→ G, AC→ E, BD→ G, E→ C}\nTậpcáckhóalàS = {ABDC, ABDE}\n7777",
+    "chars": 397
+  },
+  {
+    "page": 78,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}Bàitập1:ChoquanhệQ(A,B,C,D)vàtậpphụthuộchàm\nF={A→C,C→A, CB→D, AD→B, CD→B, AB→D}. \nTìmkhóacủalượcđồtrên.\n}Bàitập2:CholượcđồquanhệR=(Q,F)vớiQ(ABCDE),F={A→BC,BD→E,B→C}\nLượcđồtrêncóđạtdạngchuẩn2không?\n}Bàitập3:CholượcđồquanhệR=(Q,F)vớiQ(ABCD),F={AD→B,AB→C,B→A}\nXácđịnhdạngchuẩncaonhấtcủalượcđồquanhệtrên.\n}Bàitập4:CholượcđồquanhệQ(A,B,C,D,E,G)vàtậpphụthuộchàm:\nF = {A → BC; AB → D; AC → E; B → G}\na.ChứngminhAG→DG∈F+\nb.Tìmkhóacủalượcđồquanhệ(Q,F)\nc.Lượcđồquanhệ(Q,F)cóđạtdạngchuẩn3không?Giảithích.\nBàitập\n7878",
+    "chars": 533
+  },
+  {
+    "page": 79,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n}ChoquanhệQ(ABCD)vàtậpphụthuộchàm\nF={A→C,C→A, CB→D, AD→B, CD→B, AB→D}. \nTìmkhóacủalượcđồtrên.\nGiải:\n}T={},N={},(𝑇∪𝑁)+F={}≠Q+\n}TG={A,B,C,D}\n}Tấtcảtậpconcủatậptrunggian\nCTG={A,B,C,D,AB,AC,AD,BC,BD,CD,ABC,ABD,ACD,BCD,ABCD}\nBàitập1\n7979",
+    "chars": 259
+  },
+  {
+    "page": 80,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nF={A→C,C→A, CB→D, AD→B, CD→B, AB→D}\nCTG={A, B, C, D, AB, AC, AD, BC, BD, CD, ABC, ABD, ACD, BCD, ABCD}\n80\nN Xi N ∪Xi (N ∪Xi)+F\nA A AC\nB B B\nC C AC\nD D D\nAB AB ABCD=Q+ Khóalà: AB. Loạibỏcácphầntửtrong\nCTG chứaAB: ABC, ABD, ABCD\nAC AC AC\nAD AD ADBC=Q+ KhóalàAD. Loạibỏcácphầntửtrong\nCTG chứaAD: ACD\nBC BC BCAD=Q+ KhóalàBC. LoạibỏcácphầntửtrongCTG \nchứaBC: BCD\nBD BD BD\nCD CD CDAB=Q+ KhóalàCD\nKếtluận: tậpkhóaS={AB, AD, BC, CD}\n80",
+    "chars": 454
+  },
+  {
+    "page": 81,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCholượcđồquanhệR=(Q,F)vớiQ(A,B,C,D,E),F={A→BC,BD→E,B→C}\nLượcđồtrêncóđạtdạngchuẩn2không?\nGiải:\n•Tìmkhóa:\n•N={AD},N+F=ABCDE=Q+\n•VậylượcđồcómộtkhóaduynhấtlàK=AD\n•Dạngchuẩn:\n•XétphụthuộchàmA→BcóA⊂AD(ADlàkhóa)vàBlàthuộctínhkhôngkhóa.Vậy\nthuộctínhkhôngkhóaBphụthuộcriêngphầnvàokhóa,dođóQkhôngđạtdạngchuẩn2.\n•Cáchkhác:lượcđồcókhóalàAD,ngoàiraA⊂AD,màA+F=ABCÉB,trongđóBlàthuộc\ntínhkhôngkhóa.DovậyQkhôngđạtdạngchuẩn2.\nBàitập2\n8181",
+    "chars": 447
+  },
+  {
+    "page": 82,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCholượcđồquanhệR=(Q,F)vớiQ(A,B,C,D),F={AD→B,AB→C,B→A}\nXácđịnhdạngchuẩncaonhấtcủalượcđồquanhệtrên.\nGiải\n}Tìmkhóa:\n•N=D,N+F=D≠Q+\n•TG={A,B}\n•CTG={A,B,AB}\nVậylượcđồcókhóalà:AD,BD.\nBàitập3\n82\nN Xi N ∪Xi (N ∪Xi)+F\nD A DA DABC=Q+ KhóalàDA. Loạibỏcácphầntửtrong\nCTG chứaA: AB\nD B DB DBAC=Q+ KhóalàDB.\n82",
+    "chars": 322
+  },
+  {
+    "page": 83,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•VìkhóalàAD,BDnênthuộctínhkhóalàA,B,DcònthuộctínhkhôngkhóalàC\n•Tìmdạngchuẩncaonhất:\n•KiểmtradạngchuẩnBC\n•XétB→Acóvếtráikhônglàsiêukhóa=>lượcđồkhôngđạtdạngchuẩnBC\n•Kiểmtradạngchuẩn3\n•XétAB→CcóvếtráiABkhônglàsiêukhóavàvếphảiCkhônglàthuộctínhkhóa=>lượcđồ\nkhôngđạtdạngchuẩn3.\n•Kiểmtradạngchuẩn2\n•TacóB⊂BD(BDlàkhóa),B+F=BACÉC,trongđóClàthuộctínhkhôngkhóa.Vậythuộctính\nkhôngkhóaCphụthuộcriêngphầnvàokhóa,vậylượcđồQkhôngđạtdạngchuẩn2\n•Vậydạngchuẩncaonhấtcủalượcđồlà1NF\nCho lược đồ quan hệR=(Q, F) vớiQ(A,B,C,D), F={AD→B, AB→C, B→A}\n8383",
+    "chars": 556
+  },
+  {
+    "page": 84,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCholượcđồquanhệQ(A,B,C,D,E,G)vàtậpphụthuộchàm:\nF = {A → BC; AB → D; AC → E; B → G}\na. ChứngminhAG → DG ∈F+\nb. Tìm khóa của lược đồ quan hệ (Q, F)\nc. Lược đồ quan hệ (Q, F) có đạt dạng chuẩn 3không? Giải thích. \nBàitập4\n8484",
+    "chars": 250
+  },
+  {
+    "page": 85,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nGiải\nCâua. \nAG+F = AG\nAG+F = AGBC (do  A → BC)\nAG+F = AGBCD (do AB → D)\nAG+F = AGBCDE (do AC → E)\nVìDG ⊂AG+F  nênAG → DG ∈F+\nCâub. \nN = {A}\nA+F= ABCDEG =Q+\nKết luận: Khóa của lược đồ quan hệ Q là A.\nF = {A → BC; AB → D; AC → E; B → G}\n8585",
+    "chars": 266
+  },
+  {
+    "page": 86,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCâuc.\nVìA→BCnênA→B\nMàđềbàichoB→G\nThuộctínhkhôngkhóaGphụthuộcbắccầuvàokhóaA.Vậyquanhệ\nQkhôngđạtdạngchuẩn3\nCáchkhác:\n}XétPTHB→G\n•Bkhônglàsiêukhóavà\n•Gkhônglàthuộctínhkhóa\nF = {A → BC; AB → D; AC → E; B → G}\n86\nVậy quan hệ Q không đạt \ndạng chuẩn 3 \nA→ G theo tính chất bắc cầu. \n86",
+    "chars": 306
+  },
+  {
+    "page": 87,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nTHẢO LUẬN\n",
+    "chars": 37
+  }
+]

@@ -1,0 +1,716 @@
+[PDF PAGE 1]
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN, ĐHQG-HCM
+KHOA HỆ THỐNG THÔNG TIN
+CHƯƠNG 5: RÀNG BUỘC TOÀN VẸN
+1
+CƠ SỞ DỮ LIỆU
+Khoa HệthốngThông tin
+Cậpnhậtnăm2026.
+
+[PDF PAGE 2]
+1.Cáckháiniệmvềràngbuộctoànvẹn
+(RBTV)
+2.CácđặctrưngcủaRBTV
+3.PhânloạiRBTV
+2
+
+[PDF PAGE 3]
+Khoa HTTT –Cậpnhậtnăm2026.
+•RBTV(IntegrityConstraints)xuấtpháttừnhữngquiđịnhhayđiềukiện
+•Trongthựctế
+•Trongmôhìnhdữliệu
+•CácthaotáclàmthayđổidữliệucóthểđưaCSDLđếntìnhtrạng‘xấu’
+•RBTVlàđiềukiệnđượcđịnhnghĩatrênmộthaynhiềuquanhệkhác
+nhau.
+•RBTVlànhữngđiềukiệnbấtbiếnmàmọithểhiệncủaquanhệđềuphải
+thỏaởbấtkỳthờiđiểmnào.
+1. Khái niệm
+3
+
+[PDF PAGE 4]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Mụctiêu
+•Bảođảmtínhnhấtquáncủadữliệu
+•BảođảmCSDLluônbiểudiễnđúngngữnghĩathựctế
+2. Khái niệm (tt)
+4
+
+[PDF PAGE 5]
+1.Cáckháiniệmvềràngbuộctoànvẹn
+(RBTV)
+2.CácđặctrưngcủaRBTV
+3.PhânloạiRBTV
+5
+
+[PDF PAGE 6]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Nộidung
+•Bốicảnh
+•Bảngtầmảnhhưởng
+2. Các đặc trưng của RBTV
+6
+
+[PDF PAGE 7]
+Khoa HTTT –Cậpnhậtnăm2026.
+•MôtảchặtchẽýnghĩacủaRBTV
+•NộidungcủamộtRBTVđượcphátbiểubằng
+•Ngônngữtựnhiên
+•Dễhiểunhưngthiếutínhchặtchẽ
+•Ngônngữhìnhthức
+•Côđọng,chặtchẽnhưngđôilúckhóhiểu
+2.1. Nội dung
+7
+
+[PDF PAGE 8]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Vídụ1
+•Ngônngữtựnhiên
+•Ngườiquảnlýtrựctiếpphảilàmộtnhânviêntrongcôngty
+•Ngônngữhìnhthức
+2.1. Nội dung (tt)
+"t ÎNHANVIEN, 
+(t.MA_NQL¹null) Ù$s ÎNHANVIEN: t.MA_NQL=s.MANV
+8
+
+[PDF PAGE 9]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Vídụ2
+•Ngônngữtựnhiên
+•Mứclươngcủanhânviênkhôngđượcvượtquátrưởngphòng
+•Ngônngữhìnhthức
+2.1. Nội dung (tt)
+"t ÎNHANVIEN,
+$u ÎPHONGBAN, $v ÎNHANVIEN :
+u.TRPHG=v.MANVÙu.MAPHG=t.PHGÙt.LUONG£v.LUONG
+9
+
+[PDF PAGE 10]
+Khoa HTTT –Cậpnhậtnăm2026.
+•BốicảnhcủamộtRBTVlànhữngquanhệcókhảnăngbịviphạm
+RBTVkhithựchiệncácthaotáccậpnhậtdữliệu(thêm,xóa,sửa).
+•Vídụ:Mứclươngcủamộtngườinhânviênkhôngđượcvượtquá
+trưởngphòng
+•Cácthaotáccậpnhật
+•Cậpnhậtlươngchonhânviên
+•Thêmmớimộtnhânviênvàomộtphòngban
+•Bổnhiệmtrưởngphòngchomộtphòngban
+•Bốicảnh:NHANVIEN,PHONGBAN
+2.2.Bốicảnh
+10
+
+[PDF PAGE 11]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Vídụ:Ngườiquảnlýtrựctiếpphảilàmộtnhânviêntrong
+côngty
+•Cácphépcậpnhật
+•Cậpnhậtngườiquảnlýtrựctiếpcủamộtnhânviên
+•Thêmmớimộtnhânviên
+•Bốicảnh:NHANVIEN
+2.2. Bối cảnh (tt)
+11
+
+[PDF PAGE 12]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Nhằmxácđịnhkhinàocầntiếnhànhkiểmtraràngbuộctoàn
+vẹn.Thaotácnàothựchiệncóthểlàmviphạmràngbuộc
+toànvẹn.
+•Phạmviảnhhưởngcủamộtràngbuộctoànvẹnđượcbiểu
+diễnbằngmộtbảng2chiềugọilàbảngtầmảnhhưởng.
+2.3 Bảng tầm ảnh hưởng
+12
+
+[PDF PAGE 13]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Bảngtầmảnhhưởngcủa1ràngbuộcRtrênkquanhệbốicảnh
+•Dấu+:
+•CóthểlàmviphạmRBTV
+•Đốivớithaotácsửaghithêmtênthuộctínhcầnkiểmtra:+(thuộctính)
+•Dấu-:
+•KhônglàmviphạmRBTV
+•-(*):khôngviphạmvớilýdođặcbiệt
+2.3 Bảng tầm ảnh hưởng (tt)
+Tên_RB Thêm Xóa Sửa
+Quan hệ1 + - + (thuộctính)
+Quan hệ2 - + -(*)
+…
+Quanhệ n -(*) + -
+13
+
+[PDF PAGE 14]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Mộtsốquyđịnh
+•Thaotácthêmvàxóaxéttrênmộtbộcủaquanhệ.Thaotácsửaxét
+sửatừngthuộctínhtrênbộcủaquanhệ
+•Trướckhixétthaotácthựchiệncóthểlàmviphạmràngbuộchay
+khôngthìCSDLphảithoảràngbuộctoànvẹntrước.
+2.3 Bảng tầm ảnh hưởng (tt)
+14
+
+[PDF PAGE 15]
+Khoa HTTT –Cậpnhậtnăm2026.
+Ngườiquảnlýtrựctiếpphảilàmộtnhânviêntrongcôngty
+•Nộidung:
+•Bốicảnh:NHANVIEN
+•Bảngtầmảnhhưởng:
+Ví dụ 1
+"t ÎNHANVIEN, t.MA_NQL¹null Ù
+$s ÎNHANVIEN: t.MA_NQL=s.MANV
+R0-1 Thêm Xóa Sửa
+NHANVIEN+ (MaNQL)- +(MaNQL)
+15
+
+[PDF PAGE 16]
+Khoa HTTT –Cậpnhậtnăm2026.
+Mứclươngcủanhânviênkhôngđượcvượtquátrưởngphòng
+•Nộidung:
+•Bốicảnh:NHANVIEN,PHONGBAN
+•Bảngtầmảnhhưởng:
+Ví dụ 2
+R0-2 ThêmXóa Sửa
+NHANVIEN
+PHONGBAN
++ - +(LUONG)
+"t ÎNHANVIEN,
+$u ÎPHONGBAN, $v ÎNHANVIEN :
+t.PHG= u.MAPHGÙu.TRPHG=v.MANVÙ
+t.LUONG£v.LUONG
+- - +(TRGPHG)
+16
+
+[PDF PAGE 17]
+1.Cáckháiniệmvềràngbuộctoànvẹn
+(RBTV)
+2.CácđặctrưngcủaRBTV
+3.PhânloạiRBTV
+17
+
+[PDF PAGE 18]
+Khoa HTTT –Cậpnhậtnăm2026.
+•RBTVcóbốicảnhtrênmộtquanhệ
+•RBTVmiềngiátrị
+•RBTVliênthuộctính
+•RBTVliênbộ
+•RBTVcóbốicảnhtrênnhiềuquanhệ
+•RBTVthamchiếu
+•RBTVliênbộ,liênquanhệ
+•RBTVliênthuộctính,liênquanhệ
+•RBTVdothuộctínhtổnghợp
+•RBTVdosựhiệndiệncủachutrình
+3. Phân loại RBTV
+18
+
+[PDF PAGE 19]
+Khoa HTTT –Cậpnhậtnăm2026.
+•RBTVquiđịnhcácgiátrịchomộtthuộctính
+Vídụ:Ngàynhậnchứctrưởngphòngphảilàmộtngàysaunăm1970
+•RBTVNOTNULL
+Vídụ:Mọinhânviênđềuphảithuộcmộtphòngban(cộtmãphòngcủa
+nhânviênkhôngđượcphépNULL.
+3.1. RBTV miền giá trị
+19
+
+[PDF PAGE 20]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR1:Thờigianthamgiađềáncủamộtnhânviênkhông
+quá60giờ.
+•Nộidung:
+•Bốicảnh:PHANCONG
+•Bảngtầmảnhhưởng:
+3.1. RBTV miền giá trị (tt)
+R1 Thêm Xóa Sửa
+PHANCONG + - +(ThoiGian)
+"t ÎPHANCONG : t.THOIGIAN£60 
+20
+
+[PDF PAGE 21]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR2:Giớitínhcủanhânviênlà‘Nam’hoặc‘Nu’
+•Nộidung:
+•Bốicảnh:NHANVIEN
+•Bảngtầmảnhhưởng:
+3.1. RBTV miền giá trị (tt)
+R2 Thêm Xóa Sửa
+NHANVIEN + - +(Phai)
+"n ÎNHANVIEN : n.PHAIÎ{‘Nam’, ‘Nu’} 
+21
+
+[PDF PAGE 22]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Ràngbuộcgiữacácthuộctínhtrêncùng1bộcủaquanhệ.
+VídụR3:Nếungàysinhtrước1/1/1970thìnhânviênđóphảicólương
+tốithiểulà10.000.000.
+•Nộidung:
+•Bốicảnh:NHANVIEN
+•Bảngtầmảnhhưởng:
+3.2. RBTV liên thuộc tính
+R3 Thêm Xóa Sửa
+NHANVIEN + -+ (NgSinh, Luong)
+"n ÎNHANVIEN : n.NGSINH< ‘1/1/1970’
+Þn.LUONG>= 10000000 
+22
+
+[PDF PAGE 23]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR4:Ngàybắtđầu(TUNGAY)giảngdạymộtmônhọc
+chomộtlớpluônnhỏhơnngàykếtthúc(DENNGAY).
+•Nộidung:
+•Bốicảnh:GIANGDAY
+•Bảngtầmảnhhưởng
+3.2. RBTV liên thuộc tính
+R4 ThêmXóa Sửa
+GIANGDAY + - +(TuNgay,DenNgay)
+"t ÎGIANGDAY : t.TUNGAY< t.DENNGAY
+23
+
+[PDF PAGE 24]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Ràngbuộcgiữacácbộtrêncùngmộtquanhệ(cóthểliênquanđến
+nhiềuthuộctính).
+•CácloạiRBTVliênbộđặctrưng:
+•RBTVkhóachính:mỗiquanhệcómộtkhóachínhvàcácgiátrịkhóachính
+đềuphảikhácnull(mộtphầnhaytoànbộ)
+•VD:Tấtcảcáchọcviênphảicómãsốphânbiệtvớinhau
+•RBduynhất(Unique)
+•VD:Têncácphòngbanphảikhácnhau
+•Ràngbuộcvềsốbộtrongmộtquanhệ
+•VD:Mỗidựáncótốiđa10nhânviênthamgia
+3.3. RBTV liên bộ
+24
+
+[PDF PAGE 25]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR5:Tấtcảcáchọcviênphảicómãsốphânbiệtvới
+nhau
+•Nộidung
+•Bốicảnh:HOCVIEN
+•Bảngtầmảnhhưởng
+3.3. RBTV liên bộ (tt)
+R5 ThêmXóa Sửa
+HOCVIEN + - +(MaHV)
+"h1, h2 ÎHOCVIEN : h1 ¹h2 
+Þh1.MAHV ¹h2.MAHV
+25
+
+[PDF PAGE 26]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR6:Tênphònglàduynhất
+•Nộidung:
+•Bốicảnh:PHONGBAN
+•Bảngtầmảnhhưởng:
+3.3. RBTV liên bộ (tt)
+R6 ThêmXóa Sửa
+PHONGBAN + - +(TenPhg)
+"p1, p2 ÎPHONGBAN : p1¹p2 
+Þp1.TENPHG ¹p2.TENPHG 
+26
+
+[PDF PAGE 27]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR7:Mỗidựáncótốiđa10nhânviênthamgia
+•Nộidung:
+•Bốicảnh:PHANCONG
+•Bảngtầmảnhhưởng:
+3.2 RBTV liên bộ (tt)
+R7 ThêmXóa Sửa
+PHANCONG+ - +(MaDA)
+"t ÎPHANCONG: 
+COUNT (pÎPHANCONG: p.MADA= t.MADA)£10
+27
+
+[PDF PAGE 28]
+Khoa HTTT –Cậpnhậtnăm2026.
+Ví dụ R8:Mỗi nhân viên được tham gia tối đa 5 đề án.
+3.3 RBTV liên bộ (tt)
+28
+
+[PDF PAGE 29]
+Khoa HTTT –Cậpnhậtnăm2026.
+CholượcđồCSDL:
+ConNguoi(MaCN,HoTen,NamSinh,DiaChi)
+KhamChuaBenh(MaKCB,NgayKCB,Trieuchung,MaBN,MaBS,TongTienThuoc)
+ToaThuoc(MaKCB,Tenthuoc,Soluong,Thanhtien)
+Thuoc(Tenthuoc,MoTaThanhPhan,DonViTinh,DonGia)
+BiểudiễncácRBTVsau:
+1.Trongmỗilầnkhámbệnhthìbệnhnhânvàbácsĩphảikhácnhau.
+2.Trongmỗilầnkhámchữabệnh,toathuốckhôngđượckêquá10thuốckhácnhau.
+Bài tập minh họa
+29
+
+[PDF PAGE 30]
+Khoa HTTT –Cậpnhậtnăm2026.
+•RBTVcóbốicảnhtrênmộtquanhệ
+•RBTVmiềngiátrị
+•RBTVliênthuộctính
+•RBTVliênbộ
+•RBTVcóbốicảnhtrênnhiềuquanhệ
+•RBTVthamchiếu
+•RBTVliênbộ,liênquanhệ
+•RBTVliênthuộctính,liênquanhệ
+•RBTVdothuộctínhtổnghợp
+•RBTVdosựhiệndiệncủachutrình
+Phân loại RBTV
+30
+
+[PDF PAGE 31]
+Khoa HTTT –Cậpnhậtnăm2026.
+•RBTVthamchiếucòngọilàràngbuộcphụthuộctồntạihay
+ràngbuộckhóangoại
+•Giátrịxuấthiệntạicácthuộctínhtrongmộtquanhệnàođó
+phảithamchiếuđếngiátrịkhóachínhcủamộtquanhệkhác
+chotrước
+•Ràngbuộcquyđịnhgiátrịthuộctínhtrongmộtbộcủaquanhệ
+RphảiphụthuộcvàosựtồntạicủamộtbộtrongquanhệS.
+3.4. RBTV tham chiếu
+31
+
+[PDF PAGE 32]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR9:Mộtdựándomộtphòngbanchủtrì.
+•Nộidung:
+Hoặc: DEAN[PHONG]ÍPHONGBAN[MAPHG]
+•Bốicảnh:PHONGBAN,DEAN
+•Bảngtầmảnhhưởng:
+3.4.  RBTV tham chiếu (tt)
+R9 ThêmXóa Sửa
+DEAN
+PHONGBAN
++ - +(Phong)
+"d ÎDEAN, $p ÎPHONGBAN : d.PHONG=p.MAPHG
+- ++(MaPHG)
+32
+
+[PDF PAGE 33]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR10:Dựánphâncôngchonhânviênphảilàmộtdựán
+củacôngty
+•Nộidung
+Hoặc: PHANCONG[MaDA]ÍDEAN[MaDA]
+•Bốicảnh:DEAN,PHANCONG
+•Bảngtầmảnhhưởng:
+3.4 RBTV tham chiếu (tt)
+R10 ThêmXóa Sửa
+PHANCONG
+DEAN
++ - +(MaDA)
+"p ÎPHANCONG, $d ÎDEAN : p.MaDA=d.MaDA
+- + +(MaDA)
+33
+
+[PDF PAGE 34]
+Khoa HTTT –Cậpnhậtnăm2026.
+•VídụR11:Mộtthânnhânphảicómốiquanhệvớimột
+nhânviêntrongcôngty.
+•VídụR12:Họcviênthimộtmônhọcnàođóthìmôn
+họcđóphảicótrongdanhsáchcácmônhọc.
+3.4. RBTV tham chiếu (tt)
+34
+
+[PDF PAGE 35]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Ràngbuộcxảyragiữacácbộtrênnhiềuquanhệkhácnhau.
+VídụR13:NhữngđềánởTP.HCMchỉcótốiđa10nhânviênthamgia
+•Nộidung:
+•Bốicảnh:DEAN,PHANCONG
+•Bảngtầmảnhhưởng
+3.5. RBTV liên bộ, liên quan hệ
+R13 ThêmXóa Sửa
+PHANCONG
+DEAN
++ -
++(Ddiem_DA)
+"dÎDEAN: d.DDIEM_DA=‘TP.HCM’
+=> COUNT (p ÎPHANCONG : p.MaDA= d.MaDA) (p.MANV) <= 10
+- -
++(MaDA)
+35
+
+[PDF PAGE 36]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Ràngbuộcxảyragiữacácthuộctínhtrênnhiềuquanhệkhácnhau.
+VídụR14:Ngàysinhcủatrưởngphòngphảinhỏhơnngàynhậnchức
+•Nộidung:
+•Bốicảnh:PHONGBAN,NHANVIEN
+•Bảngtầmảnhhưởng
+3.6. RBTV liên thuộc tính, liên quan hệ
+R14 ThêmXóa Sửa
+PHONGBAN
+NHANVIEN
++ -
++(NgSinh)
+"p ÎPHONGBAN, $n ÎNHANVIEN : 
+n.MANV=p.TRPHGÙn.NGSINH<p.NGAY_NHANCHUC
+- -
++(Ngay_NhanChuc, TrPhg)
+36
+
+[PDF PAGE 37]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR15:Ngàythimộtmônhọcphảilớnhơnngàykếtthúchọcmônhọcđó.
+•Nộidung:
+•Bốicảnh:GIANGDAY,KETQUATHI
+•Bảngtầmảnhhưởng
+3.6, RBTV liên thuộc tính, liên quan hệ
+R15 ThêmXóa Sửa
+GIANGDAY
+KETQUATHI
+- -
++(MaMH, NgThi)
+"k ÎKETQUATHI, $g ÎGIANGDAY : 
+k.MAMH=g.MAMHÙg.DENNGAY< k.NGTHI
++ -
++(MaMH, DenNgay)
+37
+
+[PDF PAGE 38]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Thuộctínhtổnghợp:làthuộctínhcógiátrịđượctínhtoántừcác
+thuộctínhkháccủaquanhệkhác.
+•KhiCSDLcóthuộctínhtổnghợp
+•RBTVbảođảmquanhệgiữathuộctínhtổnghợpvàcácthuộc
+tínhnguồn
+•Vídụ:
+SANPHAM(MaSP,TenSP,NuocSX)
+KHACHHANG(MaKH,HoTen,DoanhSo)
+HOADON(SoHD,NgHD,MaKH,SLMH,TriGia)
+CTHD(SoHD,MaSP,SL,DonGia)
+3.7. RBTV do thuộc tính tổng hợp
+38
+
+[PDF PAGE 39]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR16:ThuộctínhSLMHtrongHOADONchobiếtsốloạisản
+phẩmcótrongmộthóađơn.
+•Nộidung:
+•Bốicảnh:HOADON,CTHD
+•Bảngtầmảnhhưởng
+3.7. RBTV do thuộc tính tổng hợp (tt)
+R16 ThêmXóa Sửa
+HOADON
+CTHD
++ -
++(SoHD)
+"h ÎHOADON, 
+h.SLMH= COUNT (ctÎCTHD : ct.SoHD= h.SoHD) (*)
++ +
++(SLMH)
+ThaotácThêmmới1hóađơn:
++:KiểmtraSLMH=0(nếutrướcđóchưa
+cóRBTVmặcđịnhSLMH=0)
+-(*):Khithêmmớimộthóađơn,mặcđịnh
+SLMH=0(nếutrướcđóđãcóRBTV
+SLMH=0)
+39
+
+[PDF PAGE 40]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR17:Trịgiácủamộthoáđơnbằngtổngthànhtiềncủacácchitiết
+thuộchoáđơnđó.
+•Nộidung:
+•Bốicảnh:HOADON,CTHD
+•Bảngtầmảnhhưởng:
+3.7. RBTV do thuộc tính tổng hợp (tt)
+R17 ThêmXóa Sửa
+HOADON
+CTHD
++ -
++(SoHD, SL, DonGia)
+"h ÎHOADON, 
+h.TriGia= S(ctÎCTHD :ct.SoHD= h.SoHD)(ct.SL * ct.DonGia)
++ +
++(TriGia)
+ThaotácThêmmới1hóađơn:
++:KiểmtraTriGia=0(nếu
+trướcđóchưacóRBTVmặc
+địnhTriGia=0)
+-(*):Khithêmmớimộthóađơn,
+mặcđịnhTriGia=0(nếutrước
+đóđãcóRBTVmặcđịnhTriGia
+=0)
+40
+
+[PDF PAGE 41]
+Khoa HTTT –Cậpnhậtnăm2026.
+•VídụR18:Doanhsốcủamộtkháchhàngbằngtổngtrịgiá
+cáchoáđơnmàkháchhàngđóđãmua
+•VídụR19:Sĩsốcủamộtlớplàsốlượnghọcviênthuộc
+lớpđó
+3.7. RBTV do thuộctínhtổnghợp(tt)
+41
+
+[PDF PAGE 42]
+Khoa HTTT –Cậpnhậtnăm2026.
+•RBTVdosựhiệndiệncủachutrìnhtrênđồthịbiểudiễnlượcđồCSDL
+•LượcđồCSDLcóthểđượcbiểudiễnbằngđồthị:
+•Quanhệ
+•Thuộctính
+•Thuộctínhthuộcmộtquanhệđượcbiểudiễn
+•Nếuđồthịbiểudiễnxuấthiệnmộtđườngkhépkín=>lượcđồCSDLcó
+sựhiệndiệncủachutrình
+3.8. RBTV cósựhiệndiệncủachu trình
+Tên quan hệ
+Tên thuộc tính
+Tên quan hệ Tên thuộc tính
+42
+
+[PDF PAGE 43]
+Khoa HTTT –Cậpnhậtnăm2026.
+•VídụR20:Trưởngphònglàmộttrongcácnhânviênthuộc
+phòng
+3.8. RBTV cósựhiệndiệncủachu trình(tt)
+NHANVIEN
+MANV = TRPHG
+PHONGBAN
+PHG=MAPHG
+43
+
+[PDF PAGE 44]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR20:Trưởngphònglàmộttrongcácnhânviênthuộcphòngđó.
+•Nộidung:
+•Bốicảnh:PHONGBAN,NHANVIEN
+•Bảngtầmảnhhưởng:
+3.8. RBTV cósựhiệndiệncủachu trình(tt)
+R20 ThêmXóa Sửa
+PHONGBAN
+NHANVIEN
++ -
++(Phg)
+"p ÎPHONGBAN, $n ÎNHANVIEN : 
+p.TRPHG= n.MANVÙp.MAPHG= n.PHG
+- -
++(TrPhg)
+44
+
+[PDF PAGE 45]
+Khoa HTTT –Cậpnhậtnăm2026.
+3.8. RBTV cósựhiệndiệncủachu trình(tt)
+NHANVIEN DEAN
+PHG=PHONG
+PHANCONG
+NHANVIEN DEAN
+PHANCONG
+SODA=MADAMANV=MA_NVIEN
+MANV, MADA
+MA_NVIEN, SODA
+A¬pMA_NVIEN, SODA (PHANCONG)
+B ¬pMANV, MADA (NHANVIEN * DEAN)
+45
+
+[PDF PAGE 46]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Cóthểcócáctrườnghợpsau:
+•HaiconđườngcủachutrìnhmangcùngýnghĩaAºB
+•Nhânviênphảiđượcphâncôngtấtcảnhữngđềándophòngban
+trựcthuộcphụtrách.
+•ConđườngAphụthuộcvàoB:AÍB
+•Nhânviênchỉđượcphâncôngvàonhữngđềándophòngban
+trựcthuộcphụtrách.
+•Haiconđườngđộclậpnhau:AËBvàBËA.KhôngcósựRBTV
+•Nhânviêncóthểđượcphâncôngvàobấtkỳđềánnào.
+3.8. RBTV cósựhiệndiệncủachu trình(tt)
+46
+
+[PDF PAGE 47]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR21:Nhânviênchỉđượcphâncôngvàocácđềándophòngbancủamình
+phụtrách.
+•Nộidung:
+•Bốicảnh:DEAN,NHANVIEN,PHANCONG
+•Bảngtầmảnhhưởng:
+3.8. RBTV cósựhiệndiệncủachu trình(tt)
+R21 ThêmXóa Sửa
+DEAN
+NHANVIEN
+PHANCONG
+- -
++(Phg)
+"pÎPHANCONG, $n ÎNHANVIEN, $d ÎDEAN : 
+n.PHG= d.PHONGÙp.MA_NVIEN=n.MANV
+Ùp.MADA=d.MADA
+- -
++(Phong)
++(MaDA, MaNV)+ -
+47
+
+[PDF PAGE 48]
+Khoa HTTT –Cậpnhậtnăm2026.
+VídụR22:Giảngviênchỉđượcphâncôngdạynhữngmôndokhoatrựcthuộcphụtrách.
+•Nộidung:
+•Bốicảnh:GIAOVIEN,GIANGDAY,MONHOC
+•Bảngtầmảnhhưởng:
+3.8. RBTV cósựhiệndiệncủachu trình(tt)
+R22 ThêmXóa Sửa
+MONHOC
+GIAOVIEN
+GIANGDAY
+- -
++(MaKhoa)
+"gÎGIANGDAY, $gvÎGIAOVIEN, $m ÎMONHOC :
+g.MAGV= gv.MAGVÙg.MAMH=m.MAMH
+Ùgv.MAKHOA=m.MAKHOA
+- -
++(MaKhoa)
++(MaGV, MaMH)+ -
+48
+
+[PDF PAGE 49]
+Khoa HTTT –Cậpnhậtnăm2026.
+•Bảngtầmảnhhưởngtổnghợpcủamràngbuộctrênnquan
+hệbốicảnh
+Bảngtầmảnhhưởngtổnghợp
+QH1 QH2 … QHn
+TXS T XS …TXS
+R1
+R2
+…
+Rm
+49
+
+[PDF PAGE 50]
+Khoa HTTT –Cậpnhậtnăm2026.
+Bảng tầm ảnh hưởng tổng hợp
+HOCVIEN GIAOVIEN LOP MONHOC GIANGDAY KETQUA
+THI
+T X S T X S T X S T X S T X S T X S
+R1 + - +
+R2 + - +
+R3 + - -*
+R4 + - +
+R5 - + -* + - -*
+R6 - - + + - +
+R7 - - + - - + + - +
+R8 + + + + - +
+R9 - - + - - + + - +
+50
+
+[PDF PAGE 51]
+Khoa HTTT –Cậpnhậtnăm2026.
+CholượcđồCSDL:
+ConNguoi(MaCN,HoTen,NamSinh,DiaChi)
+KhamChuaBenh(MaKCB,NgayKCB,Trieuchung,MaBN,MaBS,TongTienThuoc)
+ToaThuoc(MaKCB,Tenthuoc,Soluong,Thanhtien)
+Thuoc(Tenthuoc,MoTaThanhPhan,DonViTinh,DonGia)
+BiểudiễncácRBTVsau:
+1.Bệnhnhânvàbácsĩkhôngđượcphépcùngđịachỉ.
+2.Tổngtiềnthuốccủamỗilầnkhámbệnhlàtổngthànhtiềncáctoathuốctươngứng.
+Bài tập minh họa
+51
+
+[PDF PAGE 52]
+Khoa HTTT –Cậpnhậtnăm2026.
+HOCVIEN (MAHV, HO, TEN, NGSINH, GIOITINH, NOISINH, MALOP)
+LOP (MALOP, TENLOP, TRGLOP, SISO, MAGVCN)
+KHOA (MAKHOA, TENKHOA, NGTLAP, TRGKHOA)
+MONHOC (MAMH, TENMH, TCLT, TCTH, MAKHOA)
+DIEUKIEN (MAMH, MAMH_TRUOC)
+GIAOVIEN(MAGV,HOTEN,HOCVI,HOCHAM,GIOITINH,NGSINH,NGVL, HESO, 
+MUCLUONG, MAKHOA)
+GIANGDAY(MALOP,MAMH,MAGV,HOCKY, NAM,TUNGAY,DENNGAY)
+KETQUATHI (MAHV, MAMH, LANTHI, NGTHI, DIEM, KQUA)
+Lược đồ CSDL quản lý giáo vụ
+52
+
+[PDF PAGE 53]
+Khoa HTTT –Cậpnhậtnăm2026.
+THẢO LUẬN
+53

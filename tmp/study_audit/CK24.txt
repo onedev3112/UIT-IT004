@@ -1,0 +1,172 @@
+[PDF PAGE 1]
+Trang 1 / 2 – Đề 1 
+ 
+(Sinh viên không được sử dụng tài liệu – Đề thi gồm có 02 trang) 
+Câu 1. Cho lược đồ CSDL “Quản lý đặt vé máy bay nội địa của một hãng hàng không” như sau: 
+SANBAY (MaSB, TenSB, ThanhPho) 
+Tân từ: Lưu trữ các thông tin về các sân bay. Mỗi sân bay có MaSB là mã định danh IATA duy nhất 
+trên toàn cầu. TenSB là tên của sân bay. ThanhPho lưu trữ thông tin thành phố mà sân bay tọa lạc. 
+CHUYENBAY (SoHieuCB, SBDi, SBDen, SoGioBay, TTKhaiThac) 
+Tân từ: Lưu trữ thông tin về các chuyến bay. SoHieuCB là số hiệu duy nhất cho mỗi chuyến bay. 
+SBDi và SBDen là mã sân bay đi và sân bay đến, để xác định điểm đi và điểm đến, điểm đi và điểm 
+đến phải khác nhau. SoGioBay thể hiện số giờ bay của chuyến bay. TTKhaiThac là trạng thái khai 
+thác trong tuần của chuyến bay, có thể là “Hằng ngày”, “246”, “357”, “CN”, hoặc “Ngừng khai thác”. 
+LICHBAY (MaLB, SoHieuCB, GioDi, GioDen, LoaiMB, SLVeKT, TTLichBay) 
+Tân từ: Lưu trữ thông tin về lịch bay thực tế của từng chuyến bay. MaLB là mã định danh duy nhất 
+cho mỗi lịch bay. SoHieuCB lưu số hiệu chuyến bay của lịch bay. Trong một ngày, mỗi số hiệu chuyến 
+bay có tối đa một lịch bay. GioDi và GioDen ghi nhận thời gian khởi hành và thời gian đến của lịch 
+bay (thời gian bao gồm: ngày, tháng, năm, giờ, phút, giây). LoaiMB ghi nhận loại máy bay khai thác 
+lịch bay. SLVeKT là số lượng vé khai thác tối đa có thể bán của lịch bay, SLVeKT phải lớn hơn 0. 
+TTLichBay thể hiện tình trạng của lịch bay, có thể là “Chờ cất cánh”, “Đã cất cánh”, “Hoàn thành” 
+hoặc “Hủy lịch bay”. 
+LOAIVE (MaLV, MaLB, HangGhe, GiaVe, SLVeToiDa) 
+Tân từ: Lưu trữ thông tin về các loại vé phát hành cho từng lịch bay. MaLV là mã định danh duy nhất 
+cho mỗi loại vé. MaLB lưu thông tin mã lịch bay của loại vé. HangGhe ghi nhận hạng ghế “Phổ 
+thông”, “Phổ thông tiết kiệm” hoặc “Thương gia”. GiaVe là giá vé mở bán của loại vé. SLVeToiDa là 
+số lượng vé tối đa có thể bán của loại vé, SLVeToiDa phải lớn hơn hoặc bằng 0. 
+THANHVIEN (MaTV, TenTV, HoTV, GioiTinh, NgaySinh, Email, SoDT, GiayToTT) 
+Tân từ: Lưu trữ thông tin cá nhân của khách hàng thành viên. Mỗi khách hàng thành viên được định 
+danh duy nhất bởi MaTV. TenTV, HoTV, GioiTinh, NgaySinh, Email, SoDT lưu thông tin tên, họ, giới 
+tính, ngày sinh, địa chỉ email và số điện thoại của khách hàng thành viên. GiayToTT là thông tin giấy 
+tờ tùy thân của khách hàng thành viên, có thể là số căn cước công dân hoặc số hộ chiếu. 
+DATVE (MaDV, MaLB, MaTV, ThoiGianDV, SLVe, TongTienTT, TTDatVe) 
+Tân từ: Lưu trữ thông tin các lượt đặt vé của khách hàng thành viên. Mỗi lượt đặt vé có một mã MaDV 
+duy nhất để phân biệt. MaLB giúp xác định lịch bay mà lượt đặt vé này thuộc về. MaTV lưu thông tin 
+mã khách hàng thành viên đã đặt vé. ThoiGianDV ghi nhận thời gian đặt vé (bao gồm: ngày, tháng, 
+năm, giờ, phút, giây). SLVe lưu số lượng vé mà khách hàng đã đặt, được tính bằng số lượng các chi 
+tiết đặt vé của mã đặt vé đó. TongTienTT lưu tổng số tiền thanh toán thực tế của lượt đặt vé. TTDatVe 
+thể hiện tình trạng của lượt đặt vé, có thể là “Đã thanh toán” hoặc “Chưa thanh toán” hoặc “Hủy”. 
+CTDV (MaCTDV, MaDV, TenHK, HoHK, GioiTinh, NgaySinh, MaLV, GiaVeTT) 
+Tân từ: Lưu trữ thông tin chi tiết đặt vé. Mỗi lượt đặt vé có thể có nhiều chi tiết đặt vé, mỗi chi tiết 
+đặt vé lưu lại các thông tin vé của hành khách trong lượt đặt vé đó. Mỗi chi tiết đặt vé có một mã định 
+danh duy nhất MaCTDV. MaDV là mã đặt vé mà chi tiết đặt vé này thuộc về. TenHK, HoHK, GioiTinh, 
+NgaySinh là thông tin tên, họ, giới tính và ngày sinh của hành khách. MaLV ghi nhận mã loại vé của 
+chi tiết đặt vé. GiaVeTT thể hiện giá vé thực tế của chi tiết đặt vé khi thanh toán. Lưu ý: Mỗi chi tiết 
+của lượt đặt vé chỉ được đặt một trong các loại vé của lịch bay mà lượt đặt vé đó đã đặt. 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN ĐỀ THI CUỐI HỌC KỲ: I (2024-2025) 
+KHOA HỆ THỐNG THÔNG TIN MÔN: CƠ SỞ DỮ LIỆU 
+ Thời gian làm bài: 90 phút 
+ ĐỀ 1 
+
+[PDF PAGE 2]
+Trang 2 / 2 – Đề 1 
+ 
+1.1. Hãy phát biểu chặt chẽ ràng buộc toàn vẹn sau (bao gồm: bối cảnh, nội dung, bảng tầm ảnh 
+hưởng): (1.5 điểm) [G2] 
+Số lượng vé khai thác tối đa của mỗi lịch bay phải lớn hơn hoặc bằng tổng số lượng vé tối 
+đa có thể bán của những loại vé thuộc lịch bay đó. 
+Lưu ý: Giá trị của thuộc tính khóa chính không sửa được. 
+1.2. Thực hiện các câu truy vấn sau bằng ngôn ngữ SQL: (6 điểm) [G2] 
+a. Liệt kê các mã lịch bay, số hiệu chuyến bay, số giờ bay và trạng thái lịch bay của các chuyến 
+bay có trạng thái khai thác trong tuần là “Hằng ngày”. Sắp xếp kết quả trả về theo số giờ bay tăng 
+dần. (1 điểm) 
+b. Liệt kê số hiệu chuyến bay, mã sân bay đi, mã sân bay đến của những chuyến bay xuất phát 
+từ sân bay có tên “Tân Sơn Nhất” và có giờ khởi hành là 10:30:00 ngày 20/12/2024. (1 điểm) 
+c. Cho biết mã đặt vé, mã lịch bay, mã khách hàng thành viên của các lượt đặt vé có tình trạng 
+“Đã thanh toán”, và đồng thời đặt cả 2 loại vé có hạng ghế “Thương gia” và “Phổ thông” trong 
+năm 2024. (1 điểm) 
+d. Trong các lịch bay có số hiệu chuyến bay “VN121”, thống kê số lượng các chi tiết đặt vé 
+của từng loại vé đã được đặt trong năm 2024. Thông tin hiển thị: Mã loại vé, hạng ghế, số lượng. 
+(1 điểm) 
+e. Tìm mã và tên của khách hàng thành viên đã thanh toán đặt vé và đã đặt tất cả các loại vé 
+của lịch bay có mã “VN101-080125” trong lần đặt vé đó. (1 điểm) 
+f. Trong các chuyến bay khởi hành từ sân bay có mã “SGN” trong năm 2025, tìm các lịch bay 
+đã được đặt hết vé. Thông tin hiển thị: Số hiệu chuyến bay, mã lịch bay, thời gian khởi hành. (1 
+điểm) 
+Câu 2. Cho lược đồ quan hệ R (U, F) trong đó U là tập thuộc tính và F là tập phụ thuộc hàm:  
+U = {A, B, C, D, E, G, H, I} 
+F = {f1: B ® E, f2: BD ® IG, f3: GE ® CH, f4: DE ® BC, f5: G ® A} 
+2.1. Phụ thuộc hàm BG ® AI có là phụ thuộc hàm thành viên của F không? Giải thích. (0.75 
+điểm) [G3] 
+2.2. Tìm tất cả các khóa của lược đồ quan hệ trên. Giải thích (0.75 điểm) [G3] 
+2.3. Xác định dạng chuẩn cao nhất của lược đồ quan hệ trên. Giải thích. (1 điểm) [G3] 
+ 
+Ghi chú: [G2, G3] là chuẩn đầu ra môn học, sinh viên có thể xem chi tiết trong đề cương môn học. 
+---------------------------------------------------------Hết--------------------------------------------------------- 
+ Duyệt đề của Khoa/Bộ Môn TM. Giảng viên ra đề 
+
+[PDF PAGE 3]
+Trang 1 / 2 – Đề 2 
+ 
+(Sinh viên không được sử dụng tài liệu – Đề thi gồm có 02 trang) 
+Câu 1. Cho lược đồ CSDL “Quản lý đặt vé máy bay nội địa của một hãng hàng không” như sau: 
+SANBAY (MaSB, TenSB, ThanhPho) 
+Tân từ: Lưu trữ các thông tin về các sân bay. Mỗi sân bay có MaSB là mã định danh IATA duy nhất 
+trên toàn cầu. TenSB là tên của sân bay. ThanhPho lưu trữ thông tin thành phố mà sân bay tọa lạc. 
+CHUYENBAY (SoHieuCB, SBDi, SBDen, SoGioBay, TTKhaiThac) 
+Tân từ: Lưu trữ thông tin về các chuyến bay. SoHieuCB là số hiệu duy nhất cho mỗi chuyến bay. 
+SBDi và SBDen là mã sân bay đi và sân bay đến, để xác định điểm đi và điểm đến, điểm đi và điểm 
+đến phải khác nhau. SoGioBay thể hiện số giờ bay của chuyến bay. TTKhaiThac là trạng thái khai 
+thác trong tuần của chuyến bay, có thể là “Hằng ngày”, “246”, “357”, “CN”, hoặc “Ngừng khai thác”. 
+LICHBAY (MaLB, SoHieuCB, GioDi, GioDen, LoaiMB, SLVeKT, TTLichBay) 
+Tân từ: Lưu trữ thông tin về lịch bay thực tế của từng chuyến bay. MaLB là mã định danh duy nhất 
+cho mỗi lịch bay. SoHieuCB lưu số hiệu chuyến bay của lịch bay. Trong một ngày, mỗi số hiệu chuyến 
+bay có tối đa một lịch bay. GioDi và GioDen ghi nhận thời gian khởi hành và thời gian đến của lịch 
+bay (thời gian bao gồm: ngày, tháng, năm, giờ, phút, giây). LoaiMB ghi nhận loại máy bay khai thác 
+lịch bay. SLVeKT là số lượng vé khai thác tối đa có thể bán của lịch bay, SLVeKT phải lớn hơn 0. 
+TTLichBay thể hiện tình trạng của lịch bay, có thể là “Chờ cất cánh”, “Đã cất cánh”, “Hoàn thành” 
+hoặc “Hủy lịch bay”. 
+LOAIVE (MaLV, MaLB, HangGhe, GiaVe, SLVeToiDa) 
+Tân từ: Lưu trữ thông tin về các loại vé phát hành cho từng lịch bay. MaLV là mã định danh duy nhất 
+cho mỗi loại vé. MaLB lưu thông tin mã lịch bay của loại vé. HangGhe ghi nhận hạng ghế “Phổ 
+thông”, “Phổ thông tiết kiệm” hoặc “Thương gia”. GiaVe là giá vé mở bán của loại vé. SLVeToiDa là 
+số lượng vé tối đa có thể bán của loại vé, SLVeToiDa phải lớn hơn hoặc bằng 0. 
+THANHVIEN (MaTV, TenTV, HoTV, GioiTinh, NgaySinh, Email, SoDT, GiayToTT) 
+Tân từ: Lưu trữ thông tin cá nhân của khách hàng thành viên. Mỗi khách hàng thành viên được định 
+danh duy nhất bởi MaTV. TenTV, HoTV, GioiTinh, NgaySinh, Email, SoDT lưu thông tin tên, họ, giới 
+tính, ngày sinh, địa chỉ email và số điện thoại của khách hàng thành viên. GiayToTT là thông tin giấy 
+tờ tùy thân của khách hàng thành viên, có thể là số căn cước công dân hoặc số hộ chiếu. 
+DATVE (MaDV, MaLB, MaTV, ThoiGianDV, SLVe, TongTienTT, TTDatVe) 
+Tân từ: Lưu trữ thông tin các lượt đặt vé của khách hàng thành viên. Mỗi lượt đặt vé có một mã MaDV 
+duy nhất để phân biệt. MaLB giúp xác định lịch bay mà lượt đặt vé này thuộc về. MaTV lưu thông tin 
+mã khách hàng thành viên đã đặt vé. ThoiGianDV ghi nhận thời gian đặt vé (bao gồm: ngày, tháng, 
+năm, giờ, phút, giây). SLVe lưu số lượng vé mà khách hàng đã đặt, được tính bằng số lượng các chi 
+tiết đặt vé của mã đặt vé đó. TongTienTT lưu tổng số tiền thanh toán thực tế của lượt đặt vé. TTDatVe 
+thể hiện tình trạng của lượt đặt vé, có thể là “Đã thanh toán” hoặc “Chưa thanh toán” hoặc “Hủy”. 
+CTDV (MaCTDV, MaDV, TenHK, HoHK, GioiTinh, NgaySinh, MaLV, GiaVeTT) 
+Tân từ: Lưu trữ thông tin chi tiết đặt vé. Mỗi lượt đặt vé có thể có nhiều chi tiết đặt vé, mỗi chi tiết 
+đặt vé lưu lại các thông tin vé của hành khách trong lượt đặt vé đó. Mỗi chi tiết đặt vé có một mã định 
+danh duy nhất MaCTDV. MaDV là mã đặt vé mà chi tiết đặt vé này thuộc về. TenHK, HoHK, GioiTinh, 
+NgaySinh là thông tin tên, họ, giới tính và ngày sinh của hành khách. MaLV ghi nhận mã loại vé của 
+chi tiết đặt vé. GiaVeTT thể hiện giá vé thực tế của chi tiết đặt vé khi thanh toán. Lưu ý: Mỗi chi tiết 
+của lượt đặt vé chỉ được đặt một trong các loại vé của lịch bay mà lượt đặt vé đó đã đặt. 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN ĐỀ THI CUỐI HỌC KỲ: I (2024-2025) 
+KHOA HỆ THỐNG THÔNG TIN MÔN: CƠ SỞ DỮ LIỆU 
+ Thời gian làm bài: 90 phút 
+ ĐỀ 2 
+
+[PDF PAGE 4]
+Trang 2 / 2 – Đề 2 
+ 
+1.1. Hãy phát biểu chặt chẽ ràng buộc toàn vẹn sau (bao gồm: bối cảnh, nội dung, bảng tầm ảnh 
+hưởng): (1.5 điểm) [G2] 
+Số lượng vé tối đa có thể bán của mỗi loại vé phải lớn hơn hoặc bằng số lượng các chi tiết 
+đặt vé đã đặt loại vé đó. 
+Lưu ý: Giá trị của thuộc tính khóa chính không sửa được. 
+1.2. Thực hiện các câu truy vấn sau bằng ngôn ngữ SQL: (6 điểm) [G2] 
+a. Liệt kê các mã đặt vé, mã lịch bay, mã khách hàng thành viên và tổng tiền thanh toán của 
+các khách hàng thành viên có sinh nhật trong tháng 12. Sắp xếp kết quả trả về theo tổng tiền thanh 
+toán giảm dần. (1 điểm) 
+b. Liệt kê số hiệu chuyến bay, mã sân bay đi, mã sân bay đến của những chuyến bay có điểm 
+đến là sân bay có tên “Phú Bài” và có giờ đến là 12:30:00 ngày 22/12/2024. (1 điểm) 
+c. Cho biết mã, họ và tên của các khách hàng thành viên có đặt vé trong năm 2024 nhưng chưa 
+từng đặt loại vé nào có hạng ghế “Thương gia” và có giá lớn hơn 10 triệu trong các lần đặt vé. (1 
+điểm) 
+d. Với mỗi sân bay, cho biết tổng số lượng vé đã được đặt trong tháng 12 năm 2024 cho các 
+lịch bay của các chuyến bay có điểm khởi hành là sân bay đó. Thông tin hiển thị bao gồm: Mã 
+sân bay, tên sân bay, tổng số lượng vé. (1 điểm) 
+e. Tìm thông tin đặt vé (mã đặt vé, mã khách hàng thành viên) đã đặt tất cả các loại vé của lịch 
+bay có số hiệu chuyến bay “VN602” khởi hành vào lúc 08:15:00 ngày 08/01/2025. (1 điểm) 
+f. Trong các lịch bay của chuyến bay có số hiệu “VN330” khởi hành trong năm 2025, tìm các 
+loại vé đã được đặt hết. Thông tin hiển thị: Mã lịch bay, thời gian khởi hành, mã loại vé. (1 điểm) 
+Câu 2. Cho lược đồ quan hệ R (U, F) trong đó U là tập thuộc tính và F là tập phụ thuộc hàm: 
+U = {A, B, C, D, E, G, H, I} 
+F = {f1: D ® E, f2: DH ® IB, f3: BE ® CG, f4: HE ® DC, f5: B ® A} 
+2.1. Phụ thuộc hàm BD ® AG có là phụ thuộc hàm thành viên của F không? Giải thích. (0.75 
+điểm) [G3] 
+2.2. Tìm tất cả các khóa của lược đồ quan hệ trên. Giải thích (0.75 điểm) [G3] 
+2.3. Xác định dạng chuẩn cao nhất của lược đồ quan hệ trên. Giải thích. (1 điểm) [G3] 
+ 
+Ghi chú: [G2, G3] là chuẩn đầu ra môn học, sinh viên có thể xem chi tiết trong đề cương môn học. 
+---------------------------------------------------------Hết--------------------------------------------------------- 
+ Duyệt đề của Khoa/Bộ Môn TM. Giảng viên ra đề 

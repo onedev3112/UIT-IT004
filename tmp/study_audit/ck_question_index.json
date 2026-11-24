@@ -1,0 +1,1759 @@
+{
+  "created": "2026-11-24",
+  "description": "Chỉ mục yêu cầu nhỏ và dạng bài của 4 PDF đề Cuối kỳ (8 mã đề), không chứa đáp án/kết quả học. Khoảng pages trong theory gồm hai đầu mút, đánh số PDF từ 1.",
+  "source_files": 4,
+  "exam_variants": 8,
+  "task_count": 78,
+  "total_points": 80.0,
+  "items": [
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.1",
+      "question": "C1.1",
+      "pdf_page": 2,
+      "points": 1.5,
+      "kind": "RBTV",
+      "topic": "SLVeKT lịch bay >= tổng SLVeToiDa các loại vé",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            38,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nối CHUYENBAY-LICHBAY, lọc Hằng ngày, ORDER BY SoGioBay ASC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nối SANBAY-CHUYENBAY-LICHBAY, sân bay đi Tân Sơn Nhất, GioDi 20/12/2024 10:30:00",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_SET_INTERSECT",
+      "topic": "Lượt đặt vé Đã thanh toán đặt cả Thương gia và Phổ thông năm 2024",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            63,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Thống kê số lượng chi tiết đặt vé theo loại vé của VN121 năm 2024",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Thành viên đã thanh toán đặt tất cả loại vé của lịch bay VN101-080125 trong lần đặt đó",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_AGG_ADVANCED",
+      "topic": "Lịch bay khởi hành từ SGN năm 2025 đã đặt hết vé",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            91
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C2.1",
+      "question": "C2.1",
+      "pdf_page": 2,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra BG -> AI thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C2.2",
+      "question": "C2.2",
+      "pdf_page": 2,
+      "points": 0.75,
+      "kind": "FD_KEYS",
+      "topic": "Tìm tất cả các khóa của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 1,
+      "exam_id": "CK24-D1",
+      "id": "CK24-D1-C2.3",
+      "question": "C2.3",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "NORMAL_FORM_HIGHEST",
+      "topic": "Xác định dạng chuẩn cao nhất của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            50,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.1",
+      "question": "C1.1",
+      "pdf_page": 4,
+      "points": 1.5,
+      "kind": "RBTV",
+      "topic": "SLVeToiDa loại vé >= số chi tiết đặt vé đã đặt loại vé đó",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            35,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nối THANHVIEN-DATVE, sinh nhật tháng 12, ORDER BY TongTienTT DESC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nối SANBAY-CHUYENBAY-LICHBAY, điểm đến Phú Bài, GioDen 22/12/2024 12:30:00",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_SET_EXCEPT",
+      "topic": "Thành viên đặt vé năm 2024 nhưng chưa từng đặt Thương gia giá > 10 triệu",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            66,
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Với mỗi sân bay, tổng số lượng vé đặt 12/2024 theo điểm khởi hành",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Lượt đặt vé đặt tất cả loại vé của lịch bay VN602 lúc 08:15:00 08/01/2025",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_AGG_ADVANCED",
+      "topic": "Loại vé của lịch bay VN330 năm 2025 đã đặt hết",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            91
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C2.1",
+      "question": "C2.1",
+      "pdf_page": 4,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra BD -> AG thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C2.2",
+      "question": "C2.2",
+      "pdf_page": 4,
+      "points": 0.75,
+      "kind": "FD_KEYS",
+      "topic": "Tìm tất cả các khóa của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK24",
+      "variant": 2,
+      "exam_id": "CK24-D2",
+      "id": "CK24-D2-C2.3",
+      "question": "C2.3",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "NORMAL_FORM_HIGHEST",
+      "topic": "Xác định dạng chuẩn cao nhất của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            50,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.1",
+      "question": "C1.1",
+      "pdf_page": 2,
+      "points": 1.5,
+      "kind": "RBTV",
+      "topic": "Đề tài cấp ĐHQG-HCM đã nghiệm thu phải có tối thiểu 2 bài báo",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            35,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nhân viên thuộc phòng có nhiệm vụ Nghiên cứu, ORDER BY MaNV DESC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nhân viên và LoaiDT tham gia năm 2023 (NgayBD) vai trò chủ nhiệm",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_SET_EXCEPT",
+      "topic": "Nhân viên đã công bố bài báo nhưng không là tác giả chính bài nào",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            66,
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Số lượng bài báo của các đề tài được công bố năm 2023 (NgayCB)",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Nhân viên công bố tất cả bài báo tạp chí quốc tế của đề tài DT01",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_EXTREME_PER_GROUP",
+      "topic": "Với mỗi phòng, tìm nhân viên tham gia ít đề tài nhất",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C2.1",
+      "question": "C2.1",
+      "pdf_page": 2,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra AC -> DG thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C2.2",
+      "question": "C2.2",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "FD_KEYS",
+      "topic": "Tìm tất cả các khóa của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 1,
+      "exam_id": "CK23-D1",
+      "id": "CK23-D1-C2.3",
+      "question": "C2.3",
+      "pdf_page": 2,
+      "points": 0.75,
+      "kind": "NORMAL_FORM_2NF",
+      "topic": "Kiểm tra lược đồ có đạt 2NF không",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            54,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.1",
+      "question": "C1.1",
+      "pdf_page": 4,
+      "points": 1.5,
+      "kind": "RBTV",
+      "topic": "Đề tài cấp trường kinh phí > 100.000.000 có tối thiểu 5 nhân viên tham gia",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            35,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nhân viên và MaDT vai trò chủ nhiệm, ORDER BY MaNV ASC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Nhân viên và Hang bài báo tạp chí quốc tế vai trò tác giả chính",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_SET_INTERSECT",
+      "topic": "Nhân viên vừa là tác giả chính 1 bài báo, vừa là đồng tác giả bài báo khác",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            65,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Mã, tên nhân viên và số lượng đề tài tham gia vai trò chủ nhiệm",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Nhân viên công bố tất cả bài báo hội nghị quốc tế của đề tài DT02",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_EXTREME_PER_GROUP",
+      "topic": "Với mỗi phòng, tìm nhân viên công bố ít bài báo khoa học nhất",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C2.1",
+      "question": "C2.1",
+      "pdf_page": 4,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra BD -> EG thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C2.2",
+      "question": "C2.2",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "FD_KEYS",
+      "topic": "Tìm tất cả các khóa của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK23",
+      "variant": 2,
+      "exam_id": "CK23-D2",
+      "id": "CK23-D2-C2.3",
+      "question": "C2.3",
+      "pdf_page": 4,
+      "points": 0.75,
+      "kind": "NORMAL_FORM_2NF",
+      "topic": "Kiểm tra lược đồ có đạt 2NF không",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            54,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.1",
+      "question": "C1.1",
+      "pdf_page": 2,
+      "points": 1.5,
+      "kind": "RBTV",
+      "topic": "Căn hộ diện tích > 50m2 không được trả góp kỳ hạn < 24 tháng",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            36,
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Khách hàng sinh 1980-1985 mua trả góp ngày 1/2/2023",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Khách mua trả góp căn hộ diện tích > 80m2, ORDER BY TENKH DESC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Số lượng căn hộ trong từng loại căn hộ",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_SET_EXCEPT",
+      "topic": "Khách đang trả góp cao cấp nhưng không trả góp trung cấp",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            66,
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Khách mua trả góp tất cả căn hộ penthouse nhóm cao cấp",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "SQL_HAVING",
+      "topic": "Loại căn hộ nhóm cao cấp năm 2022 có số lượt bán trả góp > 10",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C2.1",
+      "question": "C2.1",
+      "pdf_page": 2,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra AB -> DG thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C2.2",
+      "question": "C2.2",
+      "pdf_page": 2,
+      "points": 1.0,
+      "kind": "FD_KEYS",
+      "topic": "Tìm tất cả các khóa của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 1,
+      "exam_id": "CK22-D1",
+      "id": "CK22-D1-C2.3",
+      "question": "C2.3",
+      "pdf_page": 2,
+      "points": 0.75,
+      "kind": "NORMAL_FORM_HIGHEST",
+      "topic": "Xác định dạng chuẩn cao nhất của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            50,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.1",
+      "question": "C1.1",
+      "pdf_page": 4,
+      "points": 1.5,
+      "kind": "RBTV",
+      "topic": "Căn hộ số phòng <= 3 không được trả góp kỳ hạn > 36 tháng",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            36,
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Căn hộ loại shophouse giá từ 1.500.000 đến 2.000.000",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Căn hộ trả góp kỳ hạn > 120 tháng, ORDER BY KYHAN DESC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Số lượng căn hộ trả góp trong từng hình thức trả góp",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_SET_INTERSECT",
+      "topic": "Khách trả góp cả loại penthouse và duplex",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            65,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Khách mua trả góp tất cả căn hộ loại duplex nhóm cao cấp",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "SQL_HAVING",
+      "topic": "Khách năm 2019 có tổng SOTIENTT căn hộ 4 phòng > 900.000.000",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C2.1",
+      "question": "C2.1",
+      "pdf_page": 4,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra CI -> DE thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C2.2",
+      "question": "C2.2",
+      "pdf_page": 4,
+      "points": 1.0,
+      "kind": "FD_KEYS",
+      "topic": "Tìm tất cả các khóa của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK22",
+      "variant": 2,
+      "exam_id": "CK22-D2",
+      "id": "CK22-D2-C2.3",
+      "question": "C2.3",
+      "pdf_page": 4,
+      "points": 0.75,
+      "kind": "NORMAL_FORM_HIGHEST",
+      "topic": "Xác định dạng chuẩn cao nhất của R(U,F)",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            50,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.1",
+      "question": "C1.1",
+      "pdf_page": 1,
+      "points": 2.0,
+      "kind": "RBTV",
+      "topic": "SLPT bệnh nhân = số lần phẫu thuật chỉ định qua các lần khám của bệnh nhân đó",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            38,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 3,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Bệnh nhân đối tượng BHYT hoặc địa chỉ Đồng Nai, ORDER BY SLPT DESC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 3,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Bệnh nhân sinh sau 2020 có khám bệnh chính Tim mạch",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 3,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Số lần khám bệnh của từng bệnh nhân trong năm 2020",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 3,
+      "points": 1.0,
+      "kind": "SQL_SET_EXCEPT",
+      "topic": "Bác sĩ chuyên môn Tai-Mũi-Họng chưa phụ trách khám năm 2020",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            66,
+            76
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 3,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Bác sĩ Hồi sức - Cấp cứu tham gia tất cả mã khám bệnh của Nguyễn Văn A",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 3,
+      "points": 1.0,
+      "kind": "SQL_EXTREME_GLOBAL",
+      "topic": "Bác sĩ có số lần phụ trách khám bệnh nhiều nhất",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            88,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C2.1",
+      "question": "C2.1",
+      "pdf_page": 3,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra BDC -> E thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 1,
+      "exam_id": "CK20-D1",
+      "id": "CK20-D1-C2.2",
+      "question": "C2.2",
+      "pdf_page": 3,
+      "points": 1.25,
+      "kind": "NORMAL_FORM_2NF",
+      "topic": "Kiểm tra lược đồ có đạt 2NF không",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        },
+        {
+          "source": "T6",
+          "pages": [
+            54,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.1",
+      "question": "C1.1",
+      "pdf_page": 4,
+      "points": 2.0,
+      "kind": "RBTV",
+      "topic": "SLPT bệnh nhân = số lần phẫu thuật chỉ định qua các lần khám của bệnh nhân đó",
+      "theory": [
+        {
+          "source": "T5",
+          "pages": [
+            6,
+            16
+          ]
+        },
+        {
+          "source": "T5",
+          "pages": [
+            38,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.2a",
+      "question": "C1.2a",
+      "pdf_page": 6,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Khám bệnh có bệnh chính hoặc kèm theo Suy thận, ORDER BY MABN ASC",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.2b",
+      "question": "C1.2b",
+      "pdf_page": 6,
+      "points": 1.0,
+      "kind": "SQL_BASIC_JOIN",
+      "topic": "Bác sĩ chuyên môn Tim mạch bắt đầu phụ trách từ năm 2021",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            48,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.2c",
+      "question": "C1.2c",
+      "pdf_page": 6,
+      "points": 1.0,
+      "kind": "SQL_GROUP_BY",
+      "topic": "Số lần phụ trách khám của từng bác sĩ trong năm 2020",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            82,
+            87
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            93,
+            95
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.2d",
+      "question": "C1.2d",
+      "pdf_page": 6,
+      "points": 1.0,
+      "kind": "SQL_SET_INTERSECT",
+      "topic": "Bệnh nhân chẩn đoán cả 2 bệnh chính Viêm phổi và Tim mạch có tái khám năm 2021",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            65,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.2e",
+      "question": "C1.2e",
+      "pdf_page": 6,
+      "points": 1.0,
+      "kind": "SQL_DIVISION",
+      "topic": "Bác sĩ khoa Cấp cứu tham gia tất cả mã khám có phẫu thuật Phổi",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            79,
+            81
+          ]
+        },
+        {
+          "source": "T4",
+          "pages": [
+            92,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C1.2f",
+      "question": "C1.2f",
+      "pdf_page": 6,
+      "points": 1.0,
+      "kind": "SQL_EXTREME_GLOBAL",
+      "topic": "Bệnh nhân có số lần khám bệnh nhiều nhất",
+      "theory": [
+        {
+          "source": "T4",
+          "pages": [
+            88,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C2.1",
+      "question": "C2.1",
+      "pdf_page": 6,
+      "points": 0.75,
+      "kind": "FD_MEMBERSHIP",
+      "topic": "Kiểm tra BAC -> E thuộc F+",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            21,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "source": "CK20",
+      "variant": 2,
+      "exam_id": "CK20-D2",
+      "id": "CK20-D2-C2.2",
+      "question": "C2.2",
+      "pdf_page": 6,
+      "points": 1.25,
+      "kind": "NORMAL_FORM_2NF",
+      "topic": "Kiểm tra lược đồ có đạt 2NF không",
+      "theory": [
+        {
+          "source": "T6",
+          "pages": [
+            36,
+            46
+          ]
+        },
+        {
+          "source": "T6",
+          "pages": [
+            54,
+            61
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[PDF PAGE 1]
+Trường Đại học Công nghệ Thông tin
+Khoa Hệ thống Thông tin
+ĐỀ 1
+ĐỀ THI CUỐI KỲ
+HỌC KỲ I, NĂM HỌC: 2023-2024
+Môn: CƠ SỞ DỮ LIỆU
+Thời gian: 90 phút
+Sinh viên không được phép sử dụng tài liệu - Đề thi gồm có 02 trang
+Sinhviênphảighimãđềvàobàilàm
+Câu 1:CholượcđồCSDLQUẢNLÝNGHIÊNCỨUKHOAHỌCcủaUITnhưsau:
+PHONG (MaPhong, TenPhong, NhiemVu, MaTrP)
+Tân từ: Lưu trữ thông tin phòng có mã phòng (MaPhong), tên phòng (TenPhong), nhiệm vụ của
+phòng (NhiemVu) và mã nhân viên quản lý phòng đó (MaTrP). Trưởng phòng của phòng ban
+phải là nhân viên của trường UIT.
+NHANVIEN (MaNV, HoTen, DiaChi, Email, GioiTinh, SoDT, DanToc, MaPhong)
+Tân từ: Lưu trữ thông tin nhân viên có mã nhân viên (MaNV), họ tên (HoTen), địa chỉ (DiaChi),
+email liên lạc (Email), giới tính (GioiTinh), số điện thoại (SoDT), dân tộc (DanToc) và mã phòng
+đang làm việc (MaPhong).
+DETAI (MaDT, TenDT, TomTat, LoaiDT, KinhPhi, NgayBD, NgayKT, NghiemThu)
+Tân từ: Lưu trữ thông tin đề tài có mã đề tài (MaDT), tên đề tài (TenDT), nội dung tóm tắt
+(TomTat), loại đề tài (LoaiDT gồm có: A, B, C, D1, D2, D3. Trong đó A, B, C là các loại đề tài
+cấp ĐHQG-HCM; D1, D2, D3 là các loại đề tài cấp Trường), kinh phí thực hiện (KinhPhi), ngày
+bắt đầu đề tài, ngày kết thúc đề tài và trạng thái nghiệm thu đề tài (NghiemThu là 1 nếu đã được
+nghiệm thu, là 0 nếu chưa nghiệm thu. Khi thêm 1 đề tài mới trạng thái nghiệm thu mặc định là 0).
+THAMGIADT (MaNV, MaDT, VaiTroDT, DongGopDT)
+Tân từ: Lưu trữ thông tin nhân viên tham gia đề tài có mã nhân viên (MaNV), mã đề tài (MaDT),
+tham gia với vai trò gì (VaiTroDT gồm có: chủ nhiệm, thành viên, thư ký), tỷ lệ % đóng góp vào
+đề tài (DongGopDT).
+BAIBAOKH (MaBB, TenBB, NhaXB, NgayCN, NgayCB, Hang, LoaiBB, MaDT)
+Tân từ: Lưu trữ thông tin bài báo khoa học có mã bài báo (MaBB), tên bài báo (TenBB), nhà xuất
+bản (NhaXB), ngày chấp nhận bài báo (NgayCN), ngày công bố bài báo (NgayCB), hạng bài báo
+(Hang, gồm có: A*, A, B, C), loại bài báo (LoaiBB gồm có: tạp chí quốc tế, tạp chí trong nước,
+hội nghị quốc tế, hội nghị trong nước) và bài báo khoa học là sản phẩm của đề tài nào (MaDT).
+CONGBOBB (MaNV, MaBB, VaiTroBB, DongGopBB)
+Tân từ: Lưu thông tin nhân viên công bố bài báo khoa học có mã nhân viên (MaNV), mã bài báo
+(MaBB), tham gia với vai trò gì (VaiTroBB gồm có: tác giả chính, tác giả liên hệ, đồng tác giả)
+và tỷ lệ % đóng góp vào bài báo (DongGopBB).
+Lưu ý:thuộctínhgạchchânlàkhóachính
+
+[PDF PAGE 2]
+Yêu cầu:
+1.Hãy phát biểu chặt chẽ ràng buộc toàn vẹn sau (bao gồm: bối cảnh, nội dung, bảng tầm ảnh
+hưởng):(1.5điểm) [G2]
+‘ĐềtàithuộcloạiđềtàicấpĐHQG-HCMđãđượcnghiệmthuphảicótốithiểu2bàibáo.’
+Lưu ý: Không được sửa khóa chính.
+2. Thực hiện các câu truy vấn sau bằng ngôn ngữ SQL (6 điểm) [G2]
+a. Liệt kê nhân viên (MaNV, HoTen) và tên phòng (TenPhong) của phòng có nhiệm vụ là
+‘Nghiêncứu’.Sắpxếpkếtquảtrảvềgiảmdầntheomãnhânviên.(1điểm)
+b. Liệt kê nhân viên (MaNV, HoTen) và loại đề tài (LoaiDT) mà nhân viên đã tham gia trong
+năm2023(NgayBD)vớivaitròlà‘chủnhiệm’đềtài.(1điểm)
+c. Cho biết các nhân viên (MaNV, HoTen) đã công bố bài báo khoa học nhưng không phải là
+‘tácgiảchính’củabấtkỳbàibáokhoahọcnào.(1điểm)
+d. Liệt kê mã đề tài, tên đề tài cùng với số lượng bài báo khoa học của các đề tài này được
+côngbốtrongnăm2023(NgayCB).(1điểm)
+e. Tìm nhân viên (HOTEN) đã công bố tất cả các bài báo khoa học trên ‘tạp chí quốc tế’ của
+đềtàicómãđềtài‘DT01’.(1điểm)
+f. Vớimỗiphòng,tìmnhânviên(MaNV,HoTen)thamgiaítđềtàinhất.(1điểm)
+Câu 2:CholượcđồquanhệR(A,B,C,D,E,G,H,I)vớitậpphụthuộchàm:(2.5điểm) [G3]
+F={f1:AC E,f2:B H,f3:BE CG,f4:DE A,f5:AE IB}
+1. AC DGcólàphụthuộchàmthànhviêncủaF+không?Giảithích.(0.75điểm)
+2. Tìmtấtcảcáckhóacủalượcđồquanhệtrên.Giảithích.(1điểm)
+3. Lượcđồquanhệtrêncóđạtdạngchuẩn2không?Giảithích.(0.75điểm)
+--------------------------------------------------------------------------------------------------------------------
+Ghi chú: [G2, G3] là chuẩn đầu ra môn học, xem chi tiết trong đề cương chi tiết môn CSDL
+---------------------------------------------------------Hết-------------------------------------------------------
+Duyệt đề Khoa HTTT TP. HCM, ngày 25/12/2023
+Giảng viên ra đề
+
+[PDF PAGE 3]
+Trường Đại học Công nghệ Thông tin
+Khoa Hệ thống Thông tin
+ĐỀ 2
+ĐỀ THI CUỐI KỲ
+HỌC KỲ I, NĂM HỌC: 2023-2024
+Môn: CƠ SỞ DỮ LIỆU
+Thời gian: 90 phút
+Sinh viên không được phép sử dụng tài liệu - Đề thi gồm có 02 trang
+Sinhviênphảighimãđềvàobàilàm
+Câu 1:CholượcđồCSDLQUẢNLÝNGHIÊNCỨUKHOAHỌCcủaUITnhưsau:[G2]
+PHONG (MaPhong, TenPhong, NhiemVu, MaTrP)
+Tân từ: Lưu trữ thông tin phòng có mã phòng (MaPhong), tên phòng (TenPhong), nhiệm vụ của
+phòng (NhiemVu) và mã nhân viên quản lý phòng đó (MaTrP). Trưởng phòng của phòng ban
+phải là nhân viên của trường UIT.
+NHANVIEN (MaNV, HoTen, DiaChi, Email, GioiTinh, SoDT, DanToc, MaPhong)
+Tân từ: Lưu trữ thông tin nhân viên có mã nhân viên (MaNV), họ tên (HoTen), địa chỉ (DiaChi),
+email liên lạc (Email), giới tính (GioiTinh), số điện thoại (SoDT), dân tộc (DanToc) và mã phòng
+đang làm việc (MaPhong).
+DETAI (MaDT, TenDT, TomTat, LoaiDT, KinhPhi, NgayBD, NgayKT, NghiemThu)
+Tân từ: Lưu trữ thông tin đề tài có mã đề tài (MaDT), tên đề tài (TenDT), nội dung tóm tắt
+(TomTat), loại đề tài (LoaiDT gồm có: A, B, C, D1, D2, D3. Trong đó A, B, C là các loại đề tài
+cấp ĐHQG-HCM; D1, D2, D3 là các loại đề tài cấp Trường), kinh phí thực hiện (KinhPhi), ngày
+bắt đầu đề tài, ngày kết thúc đề tài và trạng thái nghiệm thu đề tài (NghiemThu là 1 nếu đã được
+nghiệm thu, là 0 nếu chưa nghiệm thu. Khi thêm 1 đề tài mới trạng thái nghiệm thu mặc định là 0).
+THAMGIADT (MaNV, MaDT, VaiTroDT, DongGopDT)
+Tân từ: Lưu trữ thông tin nhân viên tham gia đề tài có mã nhân viên (MaNV), mã đề tài (MaDT),
+tham gia với vai trò gì (VaiTroDT gồm có: chủ nhiệm, thành viên, thư ký), tỷ lệ % đóng góp vào
+đề tài (DongGopDT).
+BAIBAOKH (MaBB, TenBB, NhaXB, NgayCN, NgayCB, Hang, LoaiBB, MaDT)
+Tân từ: Lưu trữ thông tin bài báo khoa học có mã bài báo (MaBB), tên bài báo (TenBB), nhà xuất
+bản (NhaXB), ngày chấp nhận bài báo (NgayCN), ngày công bố bài báo (NgayCB), hạng bài báo
+(Hang, gồm có: A*, A, B, C), loại bài báo (LoaiBB gồm có: tạp chí quốc tế, tạp chí trong nước,
+hội nghị quốc tế, hội nghị trong nước) và bài báo khoa học là sản phẩm của đề tài nào (MaDT).
+CONGBOBB (MaNV, MaBB, VaiTroBB, DongGopBB)
+Tân từ: Lưu thông tin nhân viên công bố bài báo khoa học có mã nhân viên (MaNV), mã bài báo
+(MaBB), tham gia với vai trò gì (VaiTroBB gồm có: tác giả chính, tác giả liên hệ, đồng tác giả)
+và tỷ lệ % đóng góp vào bài báo (DongGopBB).
+Lưu ý:thuộctínhgạchchânlàkhóachính
+
+[PDF PAGE 4]
+Yêu cầu:
+1. Hãy phát biểu chặt chẽ ràng buộc toàn vẹn sau (bao gồm: bối cảnh, nội dung, bảng tầm
+ảnh hưởng): (1.5 điểm) [G2]
+‘Đề tài thuộc loại đề tài cấp trường có kinh phí trên 100.000.000 phải có tối thiểu 5 nhân viên
+thamgia.’
+Lưu ý: Không được sửa khóa chính.
+2. Thực hiện các câu truy vấn sau bằng ngôn ngữ SQL: (6 điểm) [G2]
+a.Liệt kê nhân viên (MaNV, HoTen) và mã đề tài (MaDT) mà nhân viên đã tham gia với vai
+tròlà‘chủnhiệm’đềtài.Sắpxếpkếtquảtrảvềtăngdầntheomãnhânviên.(1điểm)
+b.Liệt kê nhân viên (MaNV, HoTen) và hạng bài báo (Hang) mà nhân viên đã công bố ở các
+‘tạpchíquốctế’vớivaitròlà‘tácgiảchính’bàibáo.(1điểm)
+c. Chobiếtcácnhânviên(MaNV,HoTen)vừalà‘tácgiảchính’củamộtbàibáokhoahọc,vừa
+là‘đồngtácgiả’củamộtbàibáokhoahọckhác.(1điểm)
+d.Liệt kê mã nhân viên, tên nhân viên cùng với số lượng đề tài mà nhân viên đó tham gia với
+vaitròlà‘chủnhiệm’đềtài.(1điểm)
+e. Tìm nhân viên (HOTEN) đã công bố tất cả các bài báo khoa học trên ‘hội nghị quốc tế’ của
+đềtàicómãđềtài‘DT02’.(1điểm)
+f. Vớimỗiphòng,tìmnhânviên(MaNV,HoTen)côngbốítbàibáokhoahọcnhất.(1điểm)
+Câu 2:CholượcđồquanhệR(A,B,C,D,E,G,H,I)vớitậpphụthuộchàm:(2.5điểm) [G3]
+F={f1:BD G,f2:C I,f3:CG DH,f4:EG B,f5:BG AC}
+1. BD EGcólàphụthuộchàmthànhviêncủaF+không?Giảithích.(0.75điểm)
+2. Tìmtấtcảcáckhóacủalượcđồquanhệtrên.Giảithích.(1điểm)
+3. Lượcđồquanhệtrêncóđạtdạngchuẩn2không?Giảithích.(0.75điểm)
+--------------------------------------------------------------------------------------------------------------------
+Ghi chú: [G2, G3] là chuẩn đầu ra môn học, xem chi tiết trong đề cương chi tiết môn CSDL
+---------------------------------------------------------Hết-------------------------------------------------------
+Duyệt đề Khoa HTTT TP. HCM, ngày 25/12/2023
+Giảng viên ra đề

@@ -1,0 +1,267 @@
+[
+  {
+    "page": 1,
+    "text": "TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN, ĐHQG-HCM\nKHOA HỆ THỐNG THÔNG TIN\nCHƯƠNG 5: RÀNG BUỘC TOÀN VẸN\n1\nCƠ SỞ DỮ LIỆU\nKhoa HệthốngThông tin\nCậpnhậtnăm2026.",
+    "chars": 151
+  },
+  {
+    "page": 2,
+    "text": "1.Cáckháiniệmvềràngbuộctoànvẹn\n(RBTV)\n2.CácđặctrưngcủaRBTV\n3.PhânloạiRBTV\n2",
+    "chars": 75
+  },
+  {
+    "page": 3,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•RBTV(IntegrityConstraints)xuấtpháttừnhữngquiđịnhhayđiềukiện\n•Trongthựctế\n•Trongmôhìnhdữliệu\n•CácthaotáclàmthayđổidữliệucóthểđưaCSDLđếntìnhtrạng‘xấu’\n•RBTVlàđiềukiệnđượcđịnhnghĩatrênmộthaynhiềuquanhệkhác\nnhau.\n•RBTVlànhữngđiềukiệnbấtbiếnmàmọithểhiệncủaquanhệđềuphải\nthỏaởbấtkỳthờiđiểmnào.\n1. Khái niệm\n3",
+    "chars": 330
+  },
+  {
+    "page": 4,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Mụctiêu\n•Bảođảmtínhnhấtquáncủadữliệu\n•BảođảmCSDLluônbiểudiễnđúngngữnghĩathựctế\n2. Khái niệm (tt)\n4",
+    "chars": 126
+  },
+  {
+    "page": 5,
+    "text": "1.Cáckháiniệmvềràngbuộctoànvẹn\n(RBTV)\n2.CácđặctrưngcủaRBTV\n3.PhânloạiRBTV\n5",
+    "chars": 75
+  },
+  {
+    "page": 6,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Nộidung\n•Bốicảnh\n•Bảngtầmảnhhưởng\n2. Các đặc trưng của RBTV\n6",
+    "chars": 89
+  },
+  {
+    "page": 7,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•MôtảchặtchẽýnghĩacủaRBTV\n•NộidungcủamộtRBTVđượcphátbiểubằng\n•Ngônngữtựnhiên\n•Dễhiểunhưngthiếutínhchặtchẽ\n•Ngônngữhìnhthức\n•Côđọng,chặtchẽnhưngđôilúckhóhiểu\n2.1. Nội dung\n7",
+    "chars": 199
+  },
+  {
+    "page": 8,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Vídụ1\n•Ngônngữtựnhiên\n•Ngườiquảnlýtrựctiếpphảilàmộtnhânviêntrongcôngty\n•Ngônngữhìnhthức\n2.1. Nội dung (tt)\n\"t ÎNHANVIEN, \n(t.MA_NQL¹null) Ù$s ÎNHANVIEN: t.MA_NQL=s.MANV\n8",
+    "chars": 198
+  },
+  {
+    "page": 9,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Vídụ2\n•Ngônngữtựnhiên\n•Mứclươngcủanhânviênkhôngđượcvượtquátrưởngphòng\n•Ngônngữhìnhthức\n2.1. Nội dung (tt)\n\"t ÎNHANVIEN,\n$u ÎPHONGBAN, $v ÎNHANVIEN :\nu.TRPHG=v.MANVÙu.MAPHG=t.PHGÙt.LUONG£v.LUONG\n9",
+    "chars": 223
+  },
+  {
+    "page": 10,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•BốicảnhcủamộtRBTVlànhữngquanhệcókhảnăngbịviphạm\nRBTVkhithựchiệncácthaotáccậpnhậtdữliệu(thêm,xóa,sửa).\n•Vídụ:Mứclươngcủamộtngườinhânviênkhôngđượcvượtquá\ntrưởngphòng\n•Cácthaotáccậpnhật\n•Cậpnhậtlươngchonhânviên\n•Thêmmớimộtnhânviênvàomộtphòngban\n•Bổnhiệmtrưởngphòngchomộtphòngban\n•Bốicảnh:NHANVIEN,PHONGBAN\n2.2.Bốicảnh\n10",
+    "chars": 345
+  },
+  {
+    "page": 11,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Vídụ:Ngườiquảnlýtrựctiếpphảilàmộtnhânviêntrong\ncôngty\n•Cácphépcậpnhật\n•Cậpnhậtngườiquảnlýtrựctiếpcủamộtnhânviên\n•Thêmmớimộtnhânviên\n•Bốicảnh:NHANVIEN\n2.2. Bối cảnh (tt)\n11",
+    "chars": 199
+  },
+  {
+    "page": 12,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Nhằmxácđịnhkhinàocầntiếnhànhkiểmtraràngbuộctoàn\nvẹn.Thaotácnàothựchiệncóthểlàmviphạmràngbuộc\ntoànvẹn.\n•Phạmviảnhhưởngcủamộtràngbuộctoànvẹnđượcbiểu\ndiễnbằngmộtbảng2chiềugọilàbảngtầmảnhhưởng.\n2.3 Bảng tầm ảnh hưởng\n12",
+    "chars": 243
+  },
+  {
+    "page": 13,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bảngtầmảnhhưởngcủa1ràngbuộcRtrênkquanhệbốicảnh\n•Dấu+:\n•CóthểlàmviphạmRBTV\n•Đốivớithaotácsửaghithêmtênthuộctínhcầnkiểmtra:+(thuộctính)\n•Dấu-:\n•KhônglàmviphạmRBTV\n•-(*):khôngviphạmvớilýdođặcbiệt\n2.3 Bảng tầm ảnh hưởng (tt)\nTên_RB Thêm Xóa Sửa\nQuan hệ1 + - + (thuộctính)\nQuan hệ2 - + -(*)\n…\nQuanhệ n -(*) + -\n13",
+    "chars": 336
+  },
+  {
+    "page": 14,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Mộtsốquyđịnh\n•Thaotácthêmvàxóaxéttrênmộtbộcủaquanhệ.Thaotácsửaxét\nsửatừngthuộctínhtrênbộcủaquanhệ\n•Trướckhixétthaotácthựchiệncóthểlàmviphạmràngbuộchay\nkhôngthìCSDLphảithoảràngbuộctoànvẹntrước.\n2.3 Bảng tầm ảnh hưởng (tt)\n14",
+    "chars": 251
+  },
+  {
+    "page": 15,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nNgườiquảnlýtrựctiếpphảilàmộtnhânviêntrongcôngty\n•Nộidung:\n•Bốicảnh:NHANVIEN\n•Bảngtầmảnhhưởng:\nVí dụ 1\n\"t ÎNHANVIEN, t.MA_NQL¹null Ù\n$s ÎNHANVIEN: t.MA_NQL=s.MANV\nR0-1 Thêm Xóa Sửa\nNHANVIEN+ (MaNQL)- +(MaNQL)\n15",
+    "chars": 237
+  },
+  {
+    "page": 16,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nMứclươngcủanhânviênkhôngđượcvượtquátrưởngphòng\n•Nộidung:\n•Bốicảnh:NHANVIEN,PHONGBAN\n•Bảngtầmảnhhưởng:\nVí dụ 2\nR0-2 ThêmXóa Sửa\nNHANVIEN\nPHONGBAN\n+ - +(LUONG)\n\"t ÎNHANVIEN,\n$u ÎPHONGBAN, $v ÎNHANVIEN :\nt.PHG= u.MAPHGÙu.TRPHG=v.MANVÙ\nt.LUONG£v.LUONG\n- - +(TRGPHG)\n16",
+    "chars": 291
+  },
+  {
+    "page": 17,
+    "text": "1.Cáckháiniệmvềràngbuộctoànvẹn\n(RBTV)\n2.CácđặctrưngcủaRBTV\n3.PhânloạiRBTV\n17",
+    "chars": 76
+  },
+  {
+    "page": 18,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•RBTVcóbốicảnhtrênmộtquanhệ\n•RBTVmiềngiátrị\n•RBTVliênthuộctính\n•RBTVliênbộ\n•RBTVcóbốicảnhtrênnhiềuquanhệ\n•RBTVthamchiếu\n•RBTVliênbộ,liênquanhệ\n•RBTVliênthuộctính,liênquanhệ\n•RBTVdothuộctínhtổnghợp\n•RBTVdosựhiệndiệncủachutrình\n3. Phân loại RBTV\n18",
+    "chars": 273
+  },
+  {
+    "page": 19,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•RBTVquiđịnhcácgiátrịchomộtthuộctính\nVídụ:Ngàynhậnchứctrưởngphòngphảilàmộtngàysaunăm1970\n•RBTVNOTNULL\nVídụ:Mọinhânviênđềuphảithuộcmộtphòngban(cộtmãphòngcủa\nnhânviênkhôngđượcphépNULL.\n3.1. RBTV miền giá trị\n19",
+    "chars": 235
+  },
+  {
+    "page": 20,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR1:Thờigianthamgiađềáncủamộtnhânviênkhông\nquá60giờ.\n•Nộidung:\n•Bốicảnh:PHANCONG\n•Bảngtầmảnhhưởng:\n3.1. RBTV miền giá trị (tt)\nR1 Thêm Xóa Sửa\nPHANCONG + - +(ThoiGian)\n\"t ÎPHANCONG : t.THOIGIAN£60 \n20",
+    "chars": 230
+  },
+  {
+    "page": 21,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR2:Giớitínhcủanhânviênlà‘Nam’hoặc‘Nu’\n•Nộidung:\n•Bốicảnh:NHANVIEN\n•Bảngtầmảnhhưởng:\n3.1. RBTV miền giá trị (tt)\nR2 Thêm Xóa Sửa\nNHANVIEN + - +(Phai)\n\"n ÎNHANVIEN : n.PHAIÎ{‘Nam’, ‘Nu’} \n21",
+    "chars": 219
+  },
+  {
+    "page": 22,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Ràngbuộcgiữacácthuộctínhtrêncùng1bộcủaquanhệ.\nVídụR3:Nếungàysinhtrước1/1/1970thìnhânviênđóphảicólương\ntốithiểulà10.000.000.\n•Nộidung:\n•Bốicảnh:NHANVIEN\n•Bảngtầmảnhhưởng:\n3.2. RBTV liên thuộc tính\nR3 Thêm Xóa Sửa\nNHANVIEN + -+ (NgSinh, Luong)\n\"n ÎNHANVIEN : n.NGSINH< ‘1/1/1970’\nÞn.LUONG>= 10000000 \n22",
+    "chars": 329
+  },
+  {
+    "page": 23,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR4:Ngàybắtđầu(TUNGAY)giảngdạymộtmônhọc\nchomộtlớpluônnhỏhơnngàykếtthúc(DENNGAY).\n•Nộidung:\n•Bốicảnh:GIANGDAY\n•Bảngtầmảnhhưởng\n3.2. RBTV liên thuộc tính\nR4 ThêmXóa Sửa\nGIANGDAY + - +(TuNgay,DenNgay)\n\"t ÎGIANGDAY : t.TUNGAY< t.DENNGAY\n23",
+    "chars": 265
+  },
+  {
+    "page": 24,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Ràngbuộcgiữacácbộtrêncùngmộtquanhệ(cóthểliênquanđến\nnhiềuthuộctính).\n•CácloạiRBTVliênbộđặctrưng:\n•RBTVkhóachính:mỗiquanhệcómộtkhóachínhvàcácgiátrịkhóachính\nđềuphảikhácnull(mộtphầnhaytoànbộ)\n•VD:Tấtcảcáchọcviênphảicómãsốphânbiệtvớinhau\n•RBduynhất(Unique)\n•VD:Têncácphòngbanphảikhácnhau\n•Ràngbuộcvềsốbộtrongmộtquanhệ\n•VD:Mỗidựáncótốiđa10nhânviênthamgia\n3.3. RBTV liên bộ\n24",
+    "chars": 399
+  },
+  {
+    "page": 25,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR5:Tấtcảcáchọcviênphảicómãsốphânbiệtvới\nnhau\n•Nộidung\n•Bốicảnh:HOCVIEN\n•Bảngtầmảnhhưởng\n3.3. RBTV liên bộ (tt)\nR5 ThêmXóa Sửa\nHOCVIEN + - +(MaHV)\n\"h1, h2 ÎHOCVIEN : h1 ¹h2 \nÞh1.MAHV ¹h2.MAHV\n25",
+    "chars": 224
+  },
+  {
+    "page": 26,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR6:Tênphònglàduynhất\n•Nộidung:\n•Bốicảnh:PHONGBAN\n•Bảngtầmảnhhưởng:\n3.3. RBTV liên bộ (tt)\nR6 ThêmXóa Sửa\nPHONGBAN + - +(TenPhg)\n\"p1, p2 ÎPHONGBAN : p1¹p2 \nÞp1.TENPHG ¹p2.TENPHG \n26",
+    "chars": 211
+  },
+  {
+    "page": 27,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR7:Mỗidựáncótốiđa10nhânviênthamgia\n•Nộidung:\n•Bốicảnh:PHANCONG\n•Bảngtầmảnhhưởng:\n3.2 RBTV liên bộ (tt)\nR7 ThêmXóa Sửa\nPHANCONG+ - +(MaDA)\n\"t ÎPHANCONG: \nCOUNT (pÎPHANCONG: p.MADA= t.MADA)£10\n27",
+    "chars": 224
+  },
+  {
+    "page": 28,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVí dụ R8:Mỗi nhân viên được tham gia tối đa 5 đề án.\n3.3 RBTV liên bộ (tt)\n28",
+    "chars": 104
+  },
+  {
+    "page": 29,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCholượcđồCSDL:\nConNguoi(MaCN,HoTen,NamSinh,DiaChi)\nKhamChuaBenh(MaKCB,NgayKCB,Trieuchung,MaBN,MaBS,TongTienThuoc)\nToaThuoc(MaKCB,Tenthuoc,Soluong,Thanhtien)\nThuoc(Tenthuoc,MoTaThanhPhan,DonViTinh,DonGia)\nBiểudiễncácRBTVsau:\n1.Trongmỗilầnkhámbệnhthìbệnhnhânvàbácsĩphảikhácnhau.\n2.Trongmỗilầnkhámchữabệnh,toathuốckhôngđượckêquá10thuốckhácnhau.\nBài tập minh họa\n29",
+    "chars": 388
+  },
+  {
+    "page": 30,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•RBTVcóbốicảnhtrênmộtquanhệ\n•RBTVmiềngiátrị\n•RBTVliênthuộctính\n•RBTVliênbộ\n•RBTVcóbốicảnhtrênnhiềuquanhệ\n•RBTVthamchiếu\n•RBTVliênbộ,liênquanhệ\n•RBTVliênthuộctính,liênquanhệ\n•RBTVdothuộctínhtổnghợp\n•RBTVdosựhiệndiệncủachutrình\nPhân loại RBTV\n30",
+    "chars": 270
+  },
+  {
+    "page": 31,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•RBTVthamchiếucòngọilàràngbuộcphụthuộctồntạihay\nràngbuộckhóangoại\n•Giátrịxuấthiệntạicácthuộctínhtrongmộtquanhệnàođó\nphảithamchiếuđếngiátrịkhóachínhcủamộtquanhệkhác\nchotrước\n•Ràngbuộcquyđịnhgiátrịthuộctínhtrongmộtbộcủaquanhệ\nRphảiphụthuộcvàosựtồntạicủamộtbộtrongquanhệS.\n3.4. RBTV tham chiếu\n31",
+    "chars": 320
+  },
+  {
+    "page": 32,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR9:Mộtdựándomộtphòngbanchủtrì.\n•Nộidung:\nHoặc: DEAN[PHONG]ÍPHONGBAN[MAPHG]\n•Bốicảnh:PHONGBAN,DEAN\n•Bảngtầmảnhhưởng:\n3.4.  RBTV tham chiếu (tt)\nR9 ThêmXóa Sửa\nDEAN\nPHONGBAN\n+ - +(Phong)\n\"d ÎDEAN, $p ÎPHONGBAN : d.PHONG=p.MAPHG\n- ++(MaPHG)\n32",
+    "chars": 271
+  },
+  {
+    "page": 33,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR10:Dựánphâncôngchonhânviênphảilàmộtdựán\ncủacôngty\n•Nộidung\nHoặc: PHANCONG[MaDA]ÍDEAN[MaDA]\n•Bốicảnh:DEAN,PHANCONG\n•Bảngtầmảnhhưởng:\n3.4 RBTV tham chiếu (tt)\nR10 ThêmXóa Sửa\nPHANCONG\nDEAN\n+ - +(MaDA)\n\"p ÎPHANCONG, $d ÎDEAN : p.MaDA=d.MaDA\n- + +(MaDA)\n33",
+    "chars": 284
+  },
+  {
+    "page": 34,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•VídụR11:Mộtthânnhânphảicómốiquanhệvớimột\nnhânviêntrongcôngty.\n•VídụR12:Họcviênthimộtmônhọcnàođóthìmôn\nhọcđóphảicótrongdanhsáchcácmônhọc.\n3.4. RBTV tham chiếu (tt)\n34",
+    "chars": 193
+  },
+  {
+    "page": 35,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Ràngbuộcxảyragiữacácbộtrênnhiềuquanhệkhácnhau.\nVídụR13:NhữngđềánởTP.HCMchỉcótốiđa10nhânviênthamgia\n•Nộidung:\n•Bốicảnh:DEAN,PHANCONG\n•Bảngtầmảnhhưởng\n3.5. RBTV liên bộ, liên quan hệ\nR13 ThêmXóa Sửa\nPHANCONG\nDEAN\n+ -\n+(Ddiem_DA)\n\"dÎDEAN: d.DDIEM_DA=‘TP.HCM’\n=> COUNT (p ÎPHANCONG : p.MaDA= d.MaDA) (p.MANV) <= 10\n- -\n+(MaDA)\n35",
+    "chars": 353
+  },
+  {
+    "page": 36,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Ràngbuộcxảyragiữacácthuộctínhtrênnhiềuquanhệkhácnhau.\nVídụR14:Ngàysinhcủatrưởngphòngphảinhỏhơnngàynhậnchức\n•Nộidung:\n•Bốicảnh:PHONGBAN,NHANVIEN\n•Bảngtầmảnhhưởng\n3.6. RBTV liên thuộc tính, liên quan hệ\nR14 ThêmXóa Sửa\nPHONGBAN\nNHANVIEN\n+ -\n+(NgSinh)\n\"p ÎPHONGBAN, $n ÎNHANVIEN : \nn.MANV=p.TRPHGÙn.NGSINH<p.NGAY_NHANCHUC\n- -\n+(Ngay_NhanChuc, TrPhg)\n36",
+    "chars": 377
+  },
+  {
+    "page": 37,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR15:Ngàythimộtmônhọcphảilớnhơnngàykếtthúchọcmônhọcđó.\n•Nộidung:\n•Bốicảnh:GIANGDAY,KETQUATHI\n•Bảngtầmảnhhưởng\n3.6, RBTV liên thuộc tính, liên quan hệ\nR15 ThêmXóa Sửa\nGIANGDAY\nKETQUATHI\n- -\n+(MaMH, NgThi)\n\"k ÎKETQUATHI, $g ÎGIANGDAY : \nk.MAMH=g.MAMHÙg.DENNGAY< k.NGTHI\n+ -\n+(MaMH, DenNgay)\n37",
+    "chars": 321
+  },
+  {
+    "page": 38,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Thuộctínhtổnghợp:làthuộctínhcógiátrịđượctínhtoántừcác\nthuộctínhkháccủaquanhệkhác.\n•KhiCSDLcóthuộctínhtổnghợp\n•RBTVbảođảmquanhệgiữathuộctínhtổnghợpvàcácthuộc\ntínhnguồn\n•Vídụ:\nSANPHAM(MaSP,TenSP,NuocSX)\nKHACHHANG(MaKH,HoTen,DoanhSo)\nHOADON(SoHD,NgHD,MaKH,SLMH,TriGia)\nCTHD(SoHD,MaSP,SL,DonGia)\n3.7. RBTV do thuộc tính tổng hợp\n38",
+    "chars": 355
+  },
+  {
+    "page": 39,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR16:ThuộctínhSLMHtrongHOADONchobiếtsốloạisản\nphẩmcótrongmộthóađơn.\n•Nộidung:\n•Bốicảnh:HOADON,CTHD\n•Bảngtầmảnhhưởng\n3.7. RBTV do thuộc tính tổng hợp (tt)\nR16 ThêmXóa Sửa\nHOADON\nCTHD\n+ -\n+(SoHD)\n\"h ÎHOADON, \nh.SLMH= COUNT (ctÎCTHD : ct.SoHD= h.SoHD) (*)\n+ +\n+(SLMH)\nThaotácThêmmới1hóađơn:\n+:KiểmtraSLMH=0(nếutrướcđóchưa\ncóRBTVmặcđịnhSLMH=0)\n-(*):Khithêmmớimộthóađơn,mặcđịnh\nSLMH=0(nếutrướcđóđãcóRBTV\nSLMH=0)\n39",
+    "chars": 439
+  },
+  {
+    "page": 40,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR17:Trịgiácủamộthoáđơnbằngtổngthànhtiềncủacácchitiết\nthuộchoáđơnđó.\n•Nộidung:\n•Bốicảnh:HOADON,CTHD\n•Bảngtầmảnhhưởng:\n3.7. RBTV do thuộc tính tổng hợp (tt)\nR17 ThêmXóa Sửa\nHOADON\nCTHD\n+ -\n+(SoHD, SL, DonGia)\n\"h ÎHOADON, \nh.TriGia= S(ctÎCTHD :ct.SoHD= h.SoHD)(ct.SL * ct.DonGia)\n+ +\n+(TriGia)\nThaotácThêmmới1hóađơn:\n+:KiểmtraTriGia=0(nếu\ntrướcđóchưacóRBTVmặc\nđịnhTriGia=0)\n-(*):Khithêmmớimộthóađơn,\nmặcđịnhTriGia=0(nếutrước\nđóđãcóRBTVmặcđịnhTriGia\n=0)\n40",
+    "chars": 483
+  },
+  {
+    "page": 41,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•VídụR18:Doanhsốcủamộtkháchhàngbằngtổngtrịgiá\ncáchoáđơnmàkháchhàngđóđãmua\n•VídụR19:Sĩsốcủamộtlớplàsốlượnghọcviênthuộc\nlớpđó\n3.7. RBTV do thuộctínhtổnghợp(tt)\n41",
+    "chars": 187
+  },
+  {
+    "page": 42,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•RBTVdosựhiệndiệncủachutrìnhtrênđồthịbiểudiễnlượcđồCSDL\n•LượcđồCSDLcóthểđượcbiểudiễnbằngđồthị:\n•Quanhệ\n•Thuộctính\n•Thuộctínhthuộcmộtquanhệđượcbiểudiễn\n•Nếuđồthịbiểudiễnxuấthiệnmộtđườngkhépkín=>lượcđồCSDLcó\nsựhiệndiệncủachutrình\n3.8. RBTV cósựhiệndiệncủachu trình\nTên quan hệ\nTên thuộc tính\nTên quan hệ Tên thuộc tính\n42",
+    "chars": 346
+  },
+  {
+    "page": 43,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•VídụR20:Trưởngphònglàmộttrongcácnhânviênthuộc\nphòng\n3.8. RBTV cósựhiệndiệncủachu trình(tt)\nNHANVIEN\nMANV = TRPHG\nPHONGBAN\nPHG=MAPHG\n43",
+    "chars": 162
+  },
+  {
+    "page": 44,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR20:Trưởngphònglàmộttrongcácnhânviênthuộcphòngđó.\n•Nộidung:\n•Bốicảnh:PHONGBAN,NHANVIEN\n•Bảngtầmảnhhưởng:\n3.8. RBTV cósựhiệndiệncủachu trình(tt)\nR20 ThêmXóa Sửa\nPHONGBAN\nNHANVIEN\n+ -\n+(Phg)\n\"p ÎPHONGBAN, $n ÎNHANVIEN : \np.TRPHG= n.MANVÙp.MAPHG= n.PHG\n- -\n+(TrPhg)\n44",
+    "chars": 296
+  },
+  {
+    "page": 45,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n3.8. RBTV cósựhiệndiệncủachu trình(tt)\nNHANVIEN DEAN\nPHG=PHONG\nPHANCONG\nNHANVIEN DEAN\nPHANCONG\nSODA=MADAMANV=MA_NVIEN\nMANV, MADA\nMA_NVIEN, SODA\nA¬pMA_NVIEN, SODA (PHANCONG)\nB ¬pMANV, MADA (NHANVIEN * DEAN)\n45",
+    "chars": 235
+  },
+  {
+    "page": 46,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Cóthểcócáctrườnghợpsau:\n•HaiconđườngcủachutrìnhmangcùngýnghĩaAºB\n•Nhânviênphảiđượcphâncôngtấtcảnhữngđềándophòngban\ntrựcthuộcphụtrách.\n•ConđườngAphụthuộcvàoB:AÍB\n•Nhânviênchỉđượcphâncôngvàonhữngđềándophòngban\ntrựcthuộcphụtrách.\n•Haiconđườngđộclậpnhau:AËBvàBËA.KhôngcósựRBTV\n•Nhânviêncóthểđượcphâncôngvàobấtkỳđềánnào.\n3.8. RBTV cósựhiệndiệncủachu trình(tt)\n46",
+    "chars": 385
+  },
+  {
+    "page": 47,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR21:Nhânviênchỉđượcphâncôngvàocácđềándophòngbancủamình\nphụtrách.\n•Nộidung:\n•Bốicảnh:DEAN,NHANVIEN,PHANCONG\n•Bảngtầmảnhhưởng:\n3.8. RBTV cósựhiệndiệncủachu trình(tt)\nR21 ThêmXóa Sửa\nDEAN\nNHANVIEN\nPHANCONG\n- -\n+(Phg)\n\"pÎPHANCONG, $n ÎNHANVIEN, $d ÎDEAN : \nn.PHG= d.PHONGÙp.MA_NVIEN=n.MANV\nÙp.MADA=d.MADA\n- -\n+(Phong)\n+(MaDA, MaNV)+ -\n47",
+    "chars": 364
+  },
+  {
+    "page": 48,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nVídụR22:Giảngviênchỉđượcphâncôngdạynhữngmôndokhoatrựcthuộcphụtrách.\n•Nộidung:\n•Bốicảnh:GIAOVIEN,GIANGDAY,MONHOC\n•Bảngtầmảnhhưởng:\n3.8. RBTV cósựhiệndiệncủachu trình(tt)\nR22 ThêmXóa Sửa\nMONHOC\nGIAOVIEN\nGIANGDAY\n- -\n+(MaKhoa)\n\"gÎGIANGDAY, $gvÎGIAOVIEN, $m ÎMONHOC :\ng.MAGV= gv.MAGVÙg.MAMH=m.MAMH\nÙgv.MAKHOA=m.MAKHOA\n- -\n+(MaKhoa)\n+(MaGV, MaMH)+ -\n48",
+    "chars": 374
+  },
+  {
+    "page": 49,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\n•Bảngtầmảnhhưởngtổnghợpcủamràngbuộctrênnquan\nhệbốicảnh\nBảngtầmảnhhưởngtổnghợp\nQH1 QH2 … QHn\nTXS T XS …TXS\nR1\nR2\n…\nRm\n49",
+    "chars": 146
+  },
+  {
+    "page": 50,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nBảng tầm ảnh hưởng tổng hợp\nHOCVIEN GIAOVIEN LOP MONHOC GIANGDAY KETQUA\nTHI\nT X S T X S T X S T X S T X S T X S\nR1 + - +\nR2 + - +\nR3 + - -*\nR4 + - +\nR5 - + -* + - -*\nR6 - - + + - +\nR7 - - + - - + + - +\nR8 + + + + - +\nR9 - - + - - + + - +\n50",
+    "chars": 267
+  },
+  {
+    "page": 51,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nCholượcđồCSDL:\nConNguoi(MaCN,HoTen,NamSinh,DiaChi)\nKhamChuaBenh(MaKCB,NgayKCB,Trieuchung,MaBN,MaBS,TongTienThuoc)\nToaThuoc(MaKCB,Tenthuoc,Soluong,Thanhtien)\nThuoc(Tenthuoc,MoTaThanhPhan,DonViTinh,DonGia)\nBiểudiễncácRBTVsau:\n1.Bệnhnhânvàbácsĩkhôngđượcphépcùngđịachỉ.\n2.Tổngtiềnthuốccủamỗilầnkhámbệnhlàtổngthànhtiềncáctoathuốctươngứng.\nBài tập minh họa\n51",
+    "chars": 380
+  },
+  {
+    "page": 52,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nHOCVIEN (MAHV, HO, TEN, NGSINH, GIOITINH, NOISINH, MALOP)\nLOP (MALOP, TENLOP, TRGLOP, SISO, MAGVCN)\nKHOA (MAKHOA, TENKHOA, NGTLAP, TRGKHOA)\nMONHOC (MAMH, TENMH, TCLT, TCTH, MAKHOA)\nDIEUKIEN (MAMH, MAMH_TRUOC)\nGIAOVIEN(MAGV,HOTEN,HOCVI,HOCHAM,GIOITINH,NGSINH,NGVL, HESO, \nMUCLUONG, MAKHOA)\nGIANGDAY(MALOP,MAMH,MAGV,HOCKY, NAM,TUNGAY,DENNGAY)\nKETQUATHI (MAHV, MAMH, LANTHI, NGTHI, DIEM, KQUA)\nLược đồ CSDL quản lý giáo vụ\n52",
+    "chars": 449
+  },
+  {
+    "page": 53,
+    "text": "Khoa HTTT –Cậpnhậtnăm2026.\nTHẢO LUẬN\n53",
+    "chars": 39
+  }
+]

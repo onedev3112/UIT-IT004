@@ -1,4 +1,4 @@
-"""Reuse page text for the seven approved CSDL PDFs; never modify sources."""
+"""Reuse page text for the approved CSDL PDFs (Midterm + Final); never modify sources."""
 
 from __future__ import annotations
 
@@ -16,9 +16,15 @@ SOURCES = [
     ("T2", "Lý thuyết/DPL_Chuong 2 - Mo hinh Du lieu Quan he.pdf"),
     ("T3", "Lý thuyết/DPL_Chuong 3 - Dai so Quan he.pdf"),
     ("T4", "Lý thuyết/DPL_Chuong 4 - SQL.pdf"),
+    ("T5", "Lý thuyết/DPL_Chuong 5 - Rang buoc toan ven.pdf"),
+    ("T6", "Lý thuyết/DPL_Chuong 6 - Dang chuan.pdf"),
     ("E23", "Giữa kỳ/2023_2024_HK1_DE THI GIUA KY_CSDL.pdf"),
     ("E24", "Giữa kỳ/2024_2025_HK1_DE THI GIUA KY_CSDL.pdf"),
     ("E25", "Giữa kỳ/2025_2026_HK1_DE THI GIUA KY_CSDL.pdf"),
+    ("CK20", "Cuối kỳ/[BHTCNPM] CSDL 2020-2021 CK1.pdf"),
+    ("CK22", "Cuối kỳ/[BHTCNPM] CSDL 2022-2023 CK1.pdf"),
+    ("CK23", "Cuối kỳ/[BHTCNPM] CSDL 2023_2024 CK1.pdf"),
+    ("CK24", "Cuối kỳ/[BHTCNPM] CSDL 2024_2025 CK1.pdf"),
 ]
 
 
